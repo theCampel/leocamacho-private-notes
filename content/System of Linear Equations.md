@@ -1,5 +1,5 @@
 > [!info]
-> These notes were directly imported from [[Notion]]. They're not in [[Conceptual Notetaking]] style. 
+> These notes were directly imported from [[Notion]]. They're not in [[Atomic Notes]] style. 
 
 $2x_1 - 3x_2 + 5x_3 = 7$ is a Linear Equation. Multiple would be a SLE. The _Solution_ to this System could not exist, there could be just one solution (ie just one possible value for x1,x2,x3 respectively) or there could be infinitely many.
 

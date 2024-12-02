@@ -14,7 +14,6 @@ Ask yourself: "Why does using just a tiny bit of really fast memory make the com
 > [!info] Why does this work so well?
 > Without even intentionally doing this, we tend to write code that follows these paradigms. For example, think of a loop in [[(MIPS) Assembly Language]]. We have 3 consecutive instructions located consecutively in memory. The PC is at one and increments to get the next one (that's *right next to it*). And when you hit the jump in the loop? You go right back to the first one instruction, the one that's been recently used. Google hire expert coders that maximise locality in their algorithms to make their stuff even faster. ( #interesting)
 
-
 ### Who moves data between levels of hierarchy? Typically:
 - *SW (compiler)*: Between registers and main memory (or [[Cache]]).
 	- Think of `lw` and `sw`

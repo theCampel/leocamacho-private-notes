@@ -1,5 +1,5 @@
 ### Perspective Realisation:
-Sso far, we've been interpreting limits without even realising it. The term $\frac{d}{dx}$ actually has the idea of a limit built in. As you make a tiny change thats so tiny (so tiny it may even be approaching 0 😉), you can get the derivative / slope of a function. 
+So far, we've been interpreting limits without even realising it. The term $\frac{d}{dx}$ actually has the idea of a limit built in. As you make a tiny change thats so tiny (so tiny it may even be approaching 0 😉), you can get the derivative / slope of a function. 
 
 > [!info] Formal Definition
 > $$\frac{d}{dx}f(2) = lim_{h\rightarrow0}\frac{f(2+h)-f(2)}{h}$$

@@ -1,5 +1,5 @@
 > [!none] Note:
-> These notes are imported from [[Notion]]. They're not in the [[Conceptual Notetaking]] style. 
+> These notes are imported from [[Notion]]. They're not in the [[Atomic Notes]] style. 
 
 A matrix is in ***Row Echelon Form*** when it’s in it’s “nice form”. There’s 3 rules:
 

@@ -1,1 +1,1 @@
-Your online presence for employers and whoever can see what you're learning and working on. You can kill two birds with one stone by making your [[Conceptual Notetaking|notes]] as your personal website. 
+Your online presence for employers and whoever can see what you're learning and working on. You can kill two birds with one stone by making your [[Atomic Notes|notes]] as your personal website. 

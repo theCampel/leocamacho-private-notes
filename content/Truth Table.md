@@ -1,0 +1,1 @@
+A final truth table with all 1’s is called a Tautology. A final one with all 0’s is called a contradiction. If it’s satisfiable at least once it’s called satisfiable lol.

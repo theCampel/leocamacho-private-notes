@@ -7,7 +7,7 @@ Concepts, better yet, *epiphanies*, rarely come. But when they do, they unlock a
 - [[Studying]]
 
 ### Concepts:
-- [[Conceptual Notetaking]]
+- [[Atomic Notes]]
 - [[MAYA]]
 - [[The Adjascent Possible]]
 - [[Religion]]
