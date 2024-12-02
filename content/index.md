@@ -1,7 +1,7 @@
 ---
 title: Hey! I'm Leo 👋
 ---
-I'm a 3rd year Computer Science student at the [[🎓 University of Edinburgh|University of Edinburgh]]. Welcome to my corner of the internet! 
+I'm a 3rd year Computer Science student at the [[University of Edinburgh|University of Edinburgh]]. Welcome to my corner of the internet! 
 
 ### About Me:
 - I co-founded my University's AI Society, [[EdinburghAI]], where I'm currently president.

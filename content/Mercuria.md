@@ -1,1 +1,1 @@
-A trading company that mostly trades oil. They invited you to Switzerland through [[🎓 University of Edinburgh|Uni]] to help solve their challenges (and improve their public perception). 
+A trading company that mostly trades oil. They invited you to Switzerland through [[University of Edinburgh|Uni]] to help solve their challenges (and improve their public perception). 

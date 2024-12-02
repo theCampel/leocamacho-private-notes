@@ -1,7 +1,7 @@
 #EUFS 
 
 > [!info] Description
-> Formula Student is a competition hosted in Silverstone, England every year. The society of the same name, Edinburgh University Formula Student (EUFS-> "you-ef-es") played a massive role in my first year (and beyond?) of [[🎓 University of Edinburgh|University]]. 
+> Formula Student is a competition hosted in Silverstone, England every year. The society of the same name, Edinburgh University Formula Student (EUFS-> "you-ef-es") played a massive role in my first year (and beyond?) of [[University of Edinburgh|University]]. 
 
 
 

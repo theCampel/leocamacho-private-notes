@@ -4,7 +4,7 @@ Aliases: #softwareengineering #computerscience
 > [!quote ] First Steps
 > I've always had an interest in computers. But at around 13 years old, I won €50 in a Scratch competition hosted by a (favourite) teacher of mine, with the objective of making the fastest sorting algorithm. It further hooked me on the field and I've wanted to do this as a living ever since.
 
-### CS Courses Taken (Go to [[🎓 University of Edinburgh]] for more specific):
+### CS Courses Taken (Go to [[University of Edinburgh]] for more specific):
 - [[INFR08025 - Introduction to Computation]]
 - [[INFR08029 - Introduction to OOP]]
 

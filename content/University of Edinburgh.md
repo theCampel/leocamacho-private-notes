@@ -1,5 +1,5 @@
 ### Credit
-> [!abstract] Credit
+> [!failure] Credit
 >  Credit where it's due, this place has provide a lot of [[Uni Resources|resources]] and helped me develop countless [[Personal Skills|skills]]
  
 
