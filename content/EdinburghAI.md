@@ -21,7 +21,22 @@
 	- They choose a project (given a [rubric](https://drive.google.com/file/d/1-Og-5sb80sQZB22dMDoYmqZHs5oVK3MA/view)) and start to build a project they think would do well!
 	- On the day of the event, 
 
+
+
+
 ![[B31B8F31-2EFE-4A9D-BB97-5E7019E8078C.jpg|200]]
+<div class="side-by-side"  >
+  <div>
+	<img src="B31B8F31-2EFE-4A9D-BB97-5E7019E8078C.jpg">
+  </div>
+  <div>
+    **Hello!**  
+    This is the content for the second column.  
+    Add whatever you need here.
+  </div>
+</div>
 
 
 
+
+![[B31B8F31-2EFE-4A9D-BB97-5E7019E8078C.jpg|200]]
