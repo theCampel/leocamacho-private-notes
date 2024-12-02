@@ -8,7 +8,7 @@
 
 [[Calculus]] is a all about the idea of taking a hard problem, splitting it up into an area problem and calculating the problem we get out of that as a result. 
 
-In it we deal a lot with the [[Derivative]]. This is often referred to as the "Instantaneous [[Rate of Change]]", but this statement is quite oxymoronic. 
+In it we deal a lot with the [[Derivative]]. This is often referred to as the "Instantaneous Rate of Change", but this statement is quite oxymoronic. 
 
 Also, when using the $d$ in $dx$, you're normally implying that it's a value that will tend to 0. 
 
