@@ -1,0 +1,1 @@
+An algorithm which, given an input and a constant parameter $\epsilon$, runs in polynomial time and produces an outcome which is $(1+\epsilon)$ far from the optimal. 

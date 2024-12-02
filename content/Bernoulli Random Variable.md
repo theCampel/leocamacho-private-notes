@@ -1,0 +1,1 @@
+A [[Random Variable (Probability)]] where the only 2 possibilities are 0 and 1. 

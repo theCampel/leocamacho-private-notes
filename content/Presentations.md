@@ -1,0 +1,3 @@
+### How do you present a good presentation?
+- If your [[Real World Ai]] presentation with Matt was an indication, add a bit of humour
+- Add more examples...

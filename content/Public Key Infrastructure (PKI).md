@@ -1,0 +1,2 @@
+## What?
+When you trust someone's [[Asymmetric Encryption|public key]] (thanks to the fact they have a digital certificate saying it's theirs), you're trusting the [[Certificate Authority|CA]] that awarded the digital certificate. The PKI is the general tree of trusting everyone. 

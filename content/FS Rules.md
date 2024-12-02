@@ -1,0 +1,1 @@
+Rules can be found [here](https://www.imeche.org/events/formula-student/team-information/rules). Read them 100x times over and then once more. 

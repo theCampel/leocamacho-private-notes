@@ -1,0 +1,3 @@
+Attention for [[Large Language Models (LLMs)]] is the idea of giving your model an idea of where to look within a sentence to extract the most possible information. 
+
+Take the sentence "It's going to rain in Brazil tomorrow". The key features of the sentence are *"rain"*, *"Brazil"* and *"tomorrow"*. During training, the model (we would hope) would learn that Brazil is a place and the storm will be in the future. Using this information, the algorithm a [[Transformer]], predicts the next word in a sentence. 

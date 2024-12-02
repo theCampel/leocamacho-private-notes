@@ -1,0 +1,1 @@
+The *actual* set of outputs you get from a function. It's always subset of the [[Co-domain]].
