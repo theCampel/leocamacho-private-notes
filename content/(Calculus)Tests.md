@@ -18,7 +18,7 @@ Tests if a critical point a local max or minimum.
 > - $f''(c)>0$, local min
 > - $f''(c)=0$, inconclusive
 
-A related concept is the [[Point of Inflection]]!!!
+A related concept is the [[Point of Inflection]]!!!!!!!
 
 
 
