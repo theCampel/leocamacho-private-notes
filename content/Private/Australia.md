@@ -13,4 +13,4 @@ The goal as of writing is to get a nice high paying job doing something in [[Tec
 - FIFO: "Fly In Fly Out" - Extremely soul crushing hours and work in exchange for a FAT paycheck in the end. Everyone there wants to leave but the money is too good. Could consider for a month or so. 
 - Remote, accommodation sorted, tourism jobs. They pay really well, food and accom is often provided and work is seasonal.
 
-something. More
+something. More MORE!
