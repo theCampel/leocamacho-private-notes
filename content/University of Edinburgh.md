@@ -1,7 +1,11 @@
-### Credit
-> [!failure] Credit
->  Credit where it's due, this place has provide a lot of [[Uni Resources|resources]] and helped me develop countless [[Personal Skills|skills]]
- 
+Credit where it's due, University has taught me a lot. 
+
+![[Untitled design-8.png]]
+
+### Lessons of Uni:
+- 
+
+
 
 ### First Year:
 **Recap:**

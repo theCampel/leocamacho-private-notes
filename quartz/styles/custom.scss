@@ -1,12 +1,27 @@
 @use "./base.scss";
+// Variables for customisation
+$gap: 1rem;
+$padding: 0.5rem;
+$border-color: #ccc;
+$box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
-// put your custom CSS here!
+// Side-by-side layout
 .side-by-side {
-	display: flex;
-	gap: 1rem;
-	& > div {
-		flex: 1;
-		padding: 0.5rem;
-		border: 1px solid #ccc;
-	}
+    display: flex;
+    gap: $gap;
+
+    > div {
+        flex: 1; // Equal column width
+        padding: $padding;
+
+    }
+
+    // Responsive layout: stack columns on small screens
+    @media (max-width: 768px) {
+        flex-direction: column;
+
+        > div {
+            margin-bottom: $gap; // Add spacing between stacked items
+        }
+    }
 }
