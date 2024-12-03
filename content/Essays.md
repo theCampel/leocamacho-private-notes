@@ -18,5 +18,5 @@ There's also more auxiliary pieces available on the [GitHub repo](https://github
 #### Background:
 During my internship at JP Morgan, I dove into the world of AI agents. [[AI|AI Models]] are not reliable enough today to be deployed at scale and work for their creators, but they're making progress. Assuming the actual models were smart enough, what does that unlock? What fundamentally new paradigms are available? What's the infrastructure required to bridge smart models and operating in the world? 
 
-I brought this idea to [[Entrepreneur First]], where I got offered to be a cofounder for this very idea. I turned it down because I wanted to finish Uni first. There'll always be another idea. 
+I brought this idea to [[Entrepreneur First]], where I got offered to be a cofounder (by one of the cohort) for this very idea. I turned it down because I wanted to finish Uni first. There'll always be another idea. 
 
