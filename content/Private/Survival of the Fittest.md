@@ -1,0 +1,3 @@
+I've always had a fascination over Evolution. The idea that only the strong survive in a dog-eat-dog world is something of a horrific beauty in nature. But this is just the surface level analysis of this. It's only those that can pass onto the next level (in terms of Evolution - next offspring) will be able to get further. 
+
+But it also applies to more than just animals. It applies to ideas, people in the workforce, [[Technology]] etc. 

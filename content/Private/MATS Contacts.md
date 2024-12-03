@@ -1,0 +1,5 @@
+- [Tamara Lanham](https://www.linkedin.com/in/tamera-lanham/) - University of Pensylvania - Hired straight to Anthropic (Has experience in industry before though.)
+- [Aryan Bhatt](https://www.linkedin.com/in/aryanbhatt17/) - Straight of out a 5 years masters / undergrad into (winter) Mats. Now a research fellow.
+- https://starship006.github.io/ - In your situation.
+- [Jiaxin](https://jiaxin-wen.github.io) - Done a crap ton of research. - Worked with Ethan
+- https://www.linkedin.com/in/rauno-arike/
