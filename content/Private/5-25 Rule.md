@@ -6,3 +6,6 @@ According to Warren Buffet, the best way to achieve your goals is as follow:
 
 > [!info] 5/25 Rule
 > Take your top 25 goals. I found it hard to think of this many. Regardless, sort by priority ("which ones truly speak to you") and circle the top 5. These are going to be the ones you prioritise. More importantly, you ***avoid the bottom 20 like the plague***. 
+
+
+Amazing!
