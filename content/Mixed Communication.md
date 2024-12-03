@@ -8,9 +8,9 @@ Yeh before you think this is a journal entry, it's actually about how we create 
 ### The Different Types:
 - ***Time based***: The mixer can send out the batches after a $t$ seconds of traffic. That way, every message the mixer received in the last $t$ gets released.
 	- **Problem:** [[Anonymity]] is entirely relying on a busy server. If only 1 person accessed the mixer, then it's obvious who's request that was
-- ***Quota Based:*** The mixer sends out batches after $n$ requests.
+- ***Quota Based (Threshold):*** The mixer sends out batches after $n$ requests.
 	- **Problem:** There's no guarantee how quickly you'll get it. 
-- ***Quota and Time Based:*** The mixer should have a minimum amount of messages ($n$) at all times. If that quota is matched, every $t$ seconds random fraction of $n$ gets released. 
+- ***Quota and Time (Pool) Based:*** The mixer should have a minimum amount of messages ($n$) at all times. If that quota is matched, every $t$ seconds random fraction of $n$ gets released. 
 	- **Problem:** You need lots of memory for the queue to be held.
-- **Client Delay based:** Each client says "delay my message this long". The Mixer only has to obey it. Decide it randomly.
+- **Client Delay (continuous) based:** Each client says "delay my message this long". The Mixer only has to obey it. Decide it randomly.
 - 
