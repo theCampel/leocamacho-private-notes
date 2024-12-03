@@ -4,4 +4,4 @@ Departure from rational behaviour I.E Diverting from [[Probability|probability t
 ### Examples Include:
 - [[Framing Effect]]
 - [[Loss Aversion]]
-- 
+

@@ -1,10 +1,10 @@
 
+
 - Is our current sensor setup unreasonable? (Show include slides / screenshots / descriptions)
 	- Do we have too many Lidars / Radar?
 - What role does a production / assembly line look like for AV's
 	- This is something I'd like to have a sitdown with Grace over the clarification of the rules
 - (Imo's) Once we flesh out the finances, can we get a sanity check on the numbers? 
-
 
 Hey Cameron,
 
