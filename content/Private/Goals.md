@@ -6,3 +6,4 @@ How am I going to set it up? Have two main goals, 1 professional and 1 non-profe
 My priorities are as follows:
 1. Socialise
 2. Stay Healthy
+3. Something more
