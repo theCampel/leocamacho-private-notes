@@ -6,7 +6,7 @@
 > [!note] Fundamental Theorem of Calculus
 > The idea that derivatives and inverses are inverses of each other. I.E. 
 
-[[Calculus]] is a all about the idea of taking a hard problem, splitting it up into an area problem and calculating the problem we get out of that as a result. 
+Calculus is a all about the idea of taking a hard problem, splitting it up into a bunch of smaller, easier to calculate problems and then combining them all up. Ideally, if we can 
 
 In it we deal a lot with the [[Derivative]]. This is often referred to as the "Instantaneous Rate of Change", but this statement is quite oxymoronic. 
 
@@ -26,8 +26,8 @@ Topics:
 - [[Squeeze Theorem]]
 - [[Local Extrema]]
 - [[Calculating Arc Length]]
-- 
+- There's ***far*** more notes than are linked here. Just search for it. 
 
-
+### Exam Sheet:
 We get 6 sides of an A4 sheet of paper, known as our [[CAP Cheat Sheet]]
 

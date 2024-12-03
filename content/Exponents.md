@@ -1,4 +1,4 @@
-A fundamental concept in [[Calculus and its Applications]]. 
+A fundamental concept in [[Calculus]]. 
 
 When dealing with exponents, smart people defined the number $e$.
 

@@ -1,4 +1,4 @@
-### Main Functions:1
+### Main Functions:
 1. Fetch Instruction from instruction Memory
 2. Read Register Operands
 3. Compute with ALU

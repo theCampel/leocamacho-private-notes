@@ -1,3 +1,3 @@
-A fundamental concept in [[Calculus and its Applications]]. 
+A fundamental concept in [[Calculus]]. 
 
 

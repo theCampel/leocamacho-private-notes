@@ -13,10 +13,11 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-95BTQD4ERK",
     },
     locale: "en-GB",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "leocamacho.co",
     ignorePatterns: ["private", "templates", ".obsidian", "Private"],
     defaultDateType: "created",
     generateSocialImages: false,

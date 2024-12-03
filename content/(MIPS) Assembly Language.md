@@ -1,7 +1,7 @@
 #ics
 
 > [!warning] Note:
-> This page refers specifically to the MIPS-flavoured Assembly Language. Click here to read more about the [[MIPS (Architecture)]]
+> This page refers specifically to the MIPS-flavoured Assembly Language. Click here to read more about the [[MIPS (Architecture)]]. Alternatively you can also read about [[OS Memory Management (x86)|x86 assembly]].
 ### What?
 It's an (extremely low-level) programming language that corresponds closely to the commands of an [[ISA (Architecture)]]. As such programming language, it's human readable. The mapping from [[MIPS (Architecture)]] and MIPS Assembly Language is 1-1. What does that mean? At the end of the day, the (ISA) instructions you feed into a computer are just 1s and 0s. Assembly is a symbolic representation of MIPS which is a representation of machine instructions. 
 
