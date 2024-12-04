@@ -48,7 +48,7 @@ export default {
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search my notes (e.g. '', 'Computer Memory')",
+      searchBarPlaceholder: "Search my notes (e.g. 'Power Series', 'Computer Memory', 'Time Complexity')",
     },
     tableOfContents: {
       title: "Table of Contents",

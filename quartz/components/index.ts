@@ -21,7 +21,7 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Links from "./Links"
-
+import ContactMe from "./ContactMe"
 export {
   ArticleTitle,
   Content,
@@ -46,4 +46,5 @@ export {
   Breadcrumbs,
   Comments,
   Links,
+  ContactMe,
 }
