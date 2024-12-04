@@ -4,7 +4,7 @@ title: Hey! I'm Leo 👋
 I'm a 3rd year ***Computer Science*** student at the [[University of Edinburgh|University of Edinburgh]]. Welcome to my corner of the internet! 
 
 ### About Me:
-- I co-founded my University's AI Society, [[EdinburghAI]], where I'm currently president.
+- I ***co-founded*** my University's AI Society, [[EdinburghAI]], where I'm currently ***President***.
 - I'm an active member of [[🏎️ EUFS|Edinburgh University Formula Student]], a society that builds self driving race cars from scratch. I'm currently trying to use [[Reinforcement Learning]] to optimise the global path around the race track. 
 - This past summer, I interned at JPMorganChase as a software engineer! 
 
