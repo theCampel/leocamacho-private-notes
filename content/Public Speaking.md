@@ -1,0 +1,1 @@
+It's a hard thing to do. You only get good by practise and exposure therapy. There's societies (Toastmasters, TedX society). Mixed opinion tbh.

@@ -1,7 +1,7 @@
-# What:
+## What:
 It's not just coding. When you're doing it, split it up into multiple bits.
 
-## 1. Requirements Capture
+### 1. Requirements Capture
 ##### Process:
 - Identify *what* the software must do. 
 	- ***Functional Requirements***: What the system should do

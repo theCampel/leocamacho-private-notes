@@ -1,7 +1,7 @@
 > [!note] What is it?
 > A form of model-based [[Prediction Problems|prediction]]. Used for continuous variables, as opposed to [[Classification]] which is for discrete categories. 
 
-### How do you do Linear Regression (and [[Machine Learning]] in general):
+### How do you do Linear Regression (and [[AI|Machine Learning]] in general):
 1. Specify the model
 2. Specify the loss function
 3. Minimise the loss
