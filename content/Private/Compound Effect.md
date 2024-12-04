@@ -13,3 +13,4 @@ The basic idea is that tiny actions, over a long period of time, compound greatl
 
 
 
+Buffet made most of his wealth after 65 yers old. 

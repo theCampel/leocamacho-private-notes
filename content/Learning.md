@@ -17,3 +17,5 @@
 - ***Reach out to experts:*** There's literally nothing stopping you from reaching out to someone you admire on the internet and asking them questions (learn how to send a good [[Cold Email]]). 
 
 - ***Take Care of Yourself:*** Drink lots of water. Exercise. 
+
+- ***Snowball your efforts:*** Work on something really hard for a long period of time. Do it for long enough, and the effects will make you immeasurably better. Ties into [[Compound Effect]]. 

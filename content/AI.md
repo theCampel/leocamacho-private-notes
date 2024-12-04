@@ -4,6 +4,76 @@ aliases:
   - ML
   - Artificial Intelligence
 ---
+## What?
+- Teach a computer to perform tasks without explicitly programming all the rules. (🧠 "Learn by Example").
+- Works by finding patterns in data (***Generalisation***).
+- ***Core objective***: Minimise error on unseen data (***Accuracy*** vs ***Overfitting***).
+- Encompasses [[Supervised Learning]], [[Unsupervised Learning]], [[Reinforcement Learning]].
+
+### Core Concepts:
+1. **Training Data**: A dataset of inputs (features) and outputs (labels or structure). 
+   - Assumes the data is representative of the problem space. 
+   - Data quality directly impacts performance (***Garbage In, Garbage Out***). 
+2. **Model**: A mathematical function mapping inputs to outputs (e.g., [[Linear Regression|Linear]] or [[Neural Networks]]).
+   - **Hypothesis Space**: All possible functions the model can explore.
+3. **Learning Algorithm**: Finds the best function by iteratively minimising a loss function.
+4. **Loss Function**: Quantifies how far the model’s predictions are from the truth.
+   - Examples: [[Mean Squared Error]] (for regression), [[Cross-Entropy Loss]] (for classification).
+5. **Evaluation**: Use metrics (e.g., [[Precision vs Recall]]) on a hold-out dataset to test generalisation.
+
+---
+
+### Types of Machine Learning:
+1. **Supervised Learning**:
+   - You give the model both **input data** and **desired outputs**.
+   - Examples:
+     - Predicting house prices from size. (**Regression**)
+     - Classifying emails as spam or not spam. (**Classification**)
+   - Relies heavily on the availability of labelled data.
+   
+2. **Unsupervised Learning**:
+   - No labels, just input data. Model tries to find structure or patterns.
+   - Examples:
+     - Grouping similar customers (***Clustering***).
+     - Reducing dimensionality while retaining key info (e.g., [[PCA|Principal Component Analysis]]).
+
+3. **Reinforcement Learning**:
+   - The model interacts with an environment and learns by trial-and-error.
+   - Rewards guide learning.
+   - Example: Teaching a robot to walk or play chess.
+
+---
+
+### How It Works:
+1. Prepare a dataset (cleaning, normalising, splitting into [[Train-Test Split]]).
+2. Choose a model based on the task (e.g., [[Decision Trees]], [[Support Vector Machines]]).
+3. Train the model: Minimise the loss function using an optimisation method like [[Gradient Descent]].
+4. Evaluate and tune (e.g., [[Hyperparameter Optimisation]]).
+5. Deploy the trained model for predictions. 
+
+---
+
+### Challenges:
+- **Bias and Variance Trade-off**: Models too simple (high bias) vs too complex (high variance).
+- **Overfitting**: Performs well on training data but poorly on new data. (Solution: [[Regularisation]], early stopping, or more data.)
+- **Underfitting**: Model fails to capture patterns in data. 
+
+### Security Concerns:
+- **Adversarial Attacks**: Small, deliberate changes to input can mislead a model (e.g., fooling an image classifier).
+- **Data Poisoning**: Injecting corrupted data during training to bias the model.
+- **Privacy**: Sensitive data in training might be reverse-engineered.
+
+---
+
+### Related Concepts:
+- [[Artificial Intelligence]]: ML is a subset.
+- [[Deep Learning]]: A subfield of ML using neural networks.
+- [[Big Data]]: Often needed for ML models to perform well.
+- [[Ethics in AI]]: Bias in data leads to bias in predictions.
+
+
+
+
 ## But What Actually Is It?
 It's a huge field, but basically imagine the world as made up of [[Functions]]. In other words, the world ([[💻 Computer Science|computer science]] more specifically) is made up of problems that you can give an input and it returns an output. Feed it photos of a dog? It returns the breed. Give it a bunch of words in a sentence and it outputs the next one. 
 

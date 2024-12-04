@@ -1,8 +1,8 @@
 > [!danger] What is EUFS?
-> ***Edinburgh University Formula Student*** *is a **student society** that builds self driving race cars from scratch*. We then compete these race cars in the yearly competition in Silverstone, England (where they race the F1 🤓) against teams from all over Europe. The society played a big part of life at [[University of Edinburgh|University]].
+> ***Edinburgh University Formula Student*** *is a **student society** that builds [[Autonomous Vehicles|self-driving]] race cars from scratch*. We then compete these race cars in the yearly competition in Silverstone, England (where they race the F1 🤓) against teams from all over Europe. The society played a big part of life at [[University of Edinburgh|University]].
 
 ## What Do I Do at EUFS?
-Currently, I'm working on using [[Reinforcement Learning|RL]] for global path optimisation. More 
+Currently, I'm working on using [[AI|Machine Learning]] for global path optimisation. More on that to come...
 
 #### Previously at Formula Student:
 In my first year, I was part of the ***[[Statics]]*** sub-team. When we want to Silverstone, we got awarded the best presentation they'd seen that year. We presented on:
