@@ -36,6 +36,7 @@ Problem 2 was time the constraint. I challenged myself to do this in a single da
 - Currently, song selection is random. Ideally, the user has some sort of preference over this. 
 
 > [!todo] TODO
+> Something
 > - Add video demo
 > - Follow through with Bert extension - would give more experience with local models + finetuning.
 
@@ -63,6 +64,23 @@ Not quite a coding project, but definitely one of the harder (and most rewarding
 > - ABUR
 > - Formula Student SLICC
 
+## Project's To Make:
+
+#### AutoNote Maker:
+***Background:***
+- There's lots of stuff I already know and so rarely find a need to make a note for it. Making a note is not intuitive. It includes:
+	- Being able to break the concept down into [[First Principals]].
+	- Knowing all of the pages you currently have and linking to them when necessary. 
+	- Following a similar style to all of your previous notes. 
+
+***How I'd Imagine Doing It:***
+- It would prob first get all of my notes and vectorise them. I now have a searchable [[Vector Embeddings|vector DB]]. 
+- I create an outline (~3 sentences) of what the topic is all about. 
+- I vectorise it and search through my DB and pick the most relevant / nearby notes and extract their text.
+- I take all of that, plug it into a heavily prompt engineered LLMs. 
+- And... Vóila?
+- Ideally it was local for privacy. But the model sounds like it would need to be quite smart. Not entirely sure, would become clear with testing. 
+- Also you yourself have to define what is a good note? Maybe find / make an example? 
 
 
 

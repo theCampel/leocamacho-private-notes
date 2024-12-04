@@ -32,3 +32,23 @@
 2. `evil.com` shouldn't compromise my `gmail.com` session
 3. Sensitive info on `gmail.com` should be kept that way. 
 
+## Related Topics:
+- [[ARP (Address Resolution Protocol)]]
+- [[Computer Security]]
+- [[Diffie-Hellman]]
+- [[Domain Name System (DNS)]]
+- [[Firewall]]
+- [[Injection Attacks]]
+- [[IP Address]]
+- [[Live CD Attacks on Memory]]
+- [[LLM Jailbreaking]]
+- [[Load Balancers]]
+- [[Load Balancing]]
+- [[NAT (Network Address Translation)]]
+- [[Passkeys]]
+- [[Smurfing Attack]]
+- [[TCP Vs UDP]]
+- [[TCP-IP]]
+- [[Tor 🧅]]
+- [[Tor Hidden Services]]
+- [[Zero Knowledge]]

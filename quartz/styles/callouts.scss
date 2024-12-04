@@ -125,44 +125,40 @@
 }
 
 .callout-content {
-	padding: 0em 1em 0em 1em;
-	margin: 0em;
-	border-radius: 0 0.35em 0.35em 0;
-	white-space: pre-wrap;
-
-  // Remove first and last empty lines
-  &:first-child {
-    margin-top: -1em;
-  }
-  &:last-child {
-    margin-bottom: -1em;
-  }
+  padding: 0 1em;
+  margin: 0;
+  border-radius: 0 0.35em 0.35em 0;
+  white-space: pre-wrap;
+  line-height: 1.2;
   
+  // Target the paragraph that contains "Something"
   & > p {
-    margin: 0; // Remove all paragraph margins
-    padding: 0; // Remove all paragraph padding
-  }
-
-  // Target paragraphs to remove extra spacing
-  & > p:first-child {
-    margin-top: 0;
-  }
-  & > p:last-child {
-    margin-bottom: 0;
-  }
-
-  & > ul, ol {
-    margin-top: 0; // Remove top margin
-    margin-bottom: 0; // Remove bottom margin
-	padding-top: 0;
-	padding-bottom: 0;
-    padding-left: 1.5em; // Adjust padding for list indentation
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
   }
   
-  & > li {
-    margin-bottom: 0.5em; // Reduce space between list items
+  // Target the list specifically
+  & > ul {
+    margin: 0;
+    padding: 0;
+    padding-left: 1.5em;
+    line-height: 1.2;
+    
+    // Target list items
+    li {
+      margin: 0;
+      padding: 0;
+      line-height: 1.2;
+      
+      // Target the text inside list items
+      p {
+        margin: 0;
+        padding: 0;
+        line-height: 1.2;
+      }
+    }
   }
-
 }
 
 .callout-icon{
@@ -349,3 +345,4 @@
 	color: var(--internal-link-hover);
 	text-decoration: initial !important;
 }
+
