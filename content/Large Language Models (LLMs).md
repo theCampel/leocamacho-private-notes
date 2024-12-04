@@ -1,3 +1,7 @@
+> [!hint] Cool Thing to Think About 🤔
+> It's not immediately obvious, but LLMs are (some of?) the first [[AI|Machine Learning]] models that you can improve the accuracy ***without*** changing the [[weights]]... You just have to include few-shot examples in the context. 
+
+
 ### Where do I start?
 [[Natural Language Processing|Natural Language]] is an incredibly tough challenge to give an AI. It's one of humanity's oldest [[Technology|technologies]]. Thanks to being bilingual, it's clear to me that it's a tool for exchanging *abstract concepts* from one brain to another. But at the root of it, we don't think in English or Spanish. We think in concepts. 
 

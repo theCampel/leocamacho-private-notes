@@ -5,7 +5,7 @@ aliases:
   - Artificial Intelligence
 ---
 ## But What Actually Is It?
-It's a huge field, but basically imagine the world as mad up of [[Functions]]. In other words, the world ([[💻 Computer Science|computer science]] more specifically) is made up of problems that you can give an input and it returns an output. Feed it photos of a dog? It returns the breed. Give it a bunch of words in a sentence and it outputs the next one. 
+It's a huge field, but basically imagine the world as made up of [[Functions]]. In other words, the world ([[💻 Computer Science|computer science]] more specifically) is made up of problems that you can give an input and it returns an output. Feed it photos of a dog? It returns the breed. Give it a bunch of words in a sentence and it outputs the next one. 
 
 Machine Learning is all about finding ways to find those functions. *(In an unreal and oddly roundabout way, sometimes we're trying to [[Algorithm Distillation|learn the algorithms that we already know]].)*
 
