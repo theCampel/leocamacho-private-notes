@@ -10,7 +10,7 @@ In 2023, I wrote an [[Essays|essay]] imagining what the future would look like. 
 
 ### High Level Description:
 - A radio station that takes your subscribed RSS feeds.
-- The AI radio hosts talk about a given news article, then about the song that's about to play.
+- The [[AI]] radio hosts talk about a given news article, then about the song that's about to play.
 - They finish and my Spotify immediately begins to play. 
 - *Project went from idea `->` full execution in ~1 day. Discomfort was in the self-imposed time constraint.* 
 

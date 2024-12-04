@@ -5,12 +5,11 @@ I'm a 3rd year [[💻 Computer Science|Computer Science]] student at the [[Unive
 
 ### About Me:
 - I ***co-founded*** my University's AI Society, [[EdinburghAI]], where I'm currently ***President***.
-- I'm an active member of [[🏎️ EUFS|Edinburgh University Formula Student]], a society that builds self driving race cars from scratch. I'm currently trying to use [[AI|Machine Learning]] to optimise the global path around the race track. 
+- I'm an active member of [[EUFS|EUFS 🏎️]], a society that builds [[Autonomous Vehicles|self-driving]] race cars from scratch. I'm currently trying to use [[AI|Machine Learning]] to optimise the global path around the race track. 
 - This past summer, I interned at JPMorganChase as a [[💻 Computer Science|software engineer]]! 
 
 > [!question] What is this website?
-> It's a blend of my [[💻 Computer Science|University notes]], [[Personal Projects|personal projects]] and [[Essays|written essays]]! You can search for a given topic using the 🔍 icon at the top (eg. *"Memory Hierarchy"*). Alternatively, you can just click around (eg. [[(Computer) Memory Conceptually|Computer Memory]])!
-
+> It's a blend of my [[💻 Computer Science|University notes]], [[Personal Projects|personal projects]] and [[Essays|written essays]]! You can search for a given topic using the 🔍 icon at the top (eg. *"Memory Hierarchy"*). Alternatively, you can just click around (eg. [[Power Series]])!
 
 <div class="side-by-side">
   <div>
@@ -27,13 +26,13 @@ I'm a 3rd year [[💻 Computer Science|Computer Science]] student at the [[Unive
   </div>
 </div>
 
-> [!example] The Target Audience? Me.
-> These notes are primarily for myself while I [[Learning|learn]] something new. They're far from perfect and were never intended for an audience. But hey, that's how I learn. 
+> [!example] I was the target audience...
+> I write my notes so that ***I*** can come back and re-learn the concepts easily. They're messy, scrappy and incomplete. That's the learning process at the end of the day 😉.
 > 
 > Also, some hyperlinks may not work - they're likely private notes (eg. [[Spirals|Spirals in Life]])
 
 ### Want to get in touch?
-- Email Me: 
+- Send me an [Email](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NkM2NTZGNjM2MTZENjE2MzY4NkYzNzMwMzc0MDY3NkQ2MTY5NkMyRTYzNkY2RA): 
 	- My email as hexadecimal: `6C656F63616D6163686F37303740676D61696C2E636F6D`
 	- You can convert `hex -> ASCII` online with [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NkM2NTZGNjM2MTZENjE2MzY4NkYzNzMwMzc0MDY3NkQ2MTY5NkMyRTYzNkY2RA).
 	- *(If I pasted my email here, I'd get swarmed with bots.)*

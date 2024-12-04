@@ -21,7 +21,7 @@ A presentation analysing how ready 2 different countries in the world are for SA
 - Fortunately for the Japanese Government, they sit atop technological and road infrastructure that can support their ambitious goals.
 - Ranked as having some of the best roads in the world, Japan has spent decades developing the infrastucture that will be useful today.
 - The infrastracture for the technology to be tested is already in development. Zones where SAE4 Testing is legal and allowed are being developed, with an expected 40 by 2025, 2 years away.
-- There’s also a huge amount of automotive expertise. Japan’s home to Toyota, Honda and Nissan, with Honda actively testing its mapping and self driving tech.
+- There’s also a huge amount of automotive expertise. Japan’s home to Toyota, Honda and Nissan, with Honda actively testing its mapping and ajself driving tech.
 
 ### Slide 7:
 

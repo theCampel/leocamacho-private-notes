@@ -20,7 +20,7 @@ export default ((userOpts?: Partial<Options>) => {
         <ul>
           <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/EdinburghAI">🧠 EdinburghAI</a></h3>
-            <i>AI Society I co-founded and am current president</i>
+            <i>Co-founder and President of my University's AI Society</i>
           </li>
           <li>
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/Personal-Projects">🛠️ Projects</a></h3>

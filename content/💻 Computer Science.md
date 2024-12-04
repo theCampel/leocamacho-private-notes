@@ -108,7 +108,6 @@
 - [[Databases]]
 
 #### Miscellaneous
-- [[Bit]]
 - [[Computability]]
 - [[Domain]]
 - [[DFS Vs BFS]]

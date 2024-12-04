@@ -10,4 +10,4 @@
 ## Attacks:
 - **End to End Correlation:** If you own the first and last node, you can make correlations to check if the data the first one is sending is the same as the one the last one is relaying.
 - **Selective Denial of Service:** Image you own the first *"guard"* node, and an exit node. During the client's first establishing of the relay, you could keep dropping the connection until the relay randomly chooses your exit node. 
-- **Website fingerprinting:** All websites' traffic looks slightly different. This could use [[(Machine Learning) Models|machine learning]]. You could visit the top 100 most common websites, each a million times and then us ML to determine whether a specific visit is actually that website (the accuracy drops as the amount of websites being scanned drops). 
+- **Website fingerprinting:** All websites' traffic looks slightly different. This could be a use of [[(Machine Learning) Models|machine learning]]. You could visit the top 100 most common websites, each a million times and then us ML to determine whether a specific visit is actually that website (the accuracy drops as the amount of websites being scanned rises). 

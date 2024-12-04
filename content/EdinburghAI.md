@@ -2,16 +2,14 @@
 ~
 ---
 > [!danger] Our Mission
-> EdinburghAI is The [[University of Edinburgh]]'s AI society. Our mission is: 
+> EdinburghAI is The [[University of Edinburgh]]'s [[AI]] society. Our mission is: 
 > 
 > ***Empower students and the broader community, transforming them into the next generation of AI builders and researchers***. 
 
 ![[20d1e698-5a5b-4eb1-ac49-941b8af1d501.jpg]]
 *@Ben Alison from Amazon Advertising giving a talk*
-
 ## What Do We Do? 
 - ***Host Talks:*** We've had [[Google DeepMind]], Amazon and Spotify (and more!) give talks. With [[AI|AI-based]] talks from robotics to recommendation systems, I've learned something new every talk.
-
 
 - ***Workshops:*** These were split into 2 parts:
 	- ***Beginner-Friendly:*** Taught the fundamentals of [[AI|Machine Learning]] in a beginner-friendly way. Check them out [here](https://github.com/EdinburghAI/workshops)!

@@ -1,2 +1,2 @@
 ## What?
-It's 8 [[Bit|bits]]. Why? Well to make the [[CPU - Processor Components|CPU]] simpler, the standard was the amount it would have to reference was constant. Being able to refer to 256 different things was useful. 
+It's 8 [[(Computer) Bit|bits]]. Why? Well to make the [[CPU - Processor Components|CPU]] simpler, the standard was the amount it would have to reference was constant. Being able to refer to 256 different things was useful. 

@@ -4,5 +4,5 @@
 
 - [[💻 Computer Science]]
 - [[🧠 Concepts MOC]]
-- [[🏎️ EUFS]]
+- [[EUFS]]
 - [[University of Edinburgh]]

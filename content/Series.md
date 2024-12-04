@@ -1,4 +1,4 @@
-§The sum of a [[Sequences]] of terms.
+The sum of a [[Sequences]] of terms.
 
 ### Sigma notation
 Given a function $f$ and two integers $A$ and $B$ (with $A \leq B$), we write
@@ -25,7 +25,6 @@ $$
 \sum_{i=1}^{n} (a_i + b_i)
 $$
 ##### Splitting a Sum in Sigma Notation
-
 If $m, n$ are integers with $1 < m < n$, then
 $$
 \sum_{i=1}^{n} a_i = \sum_{i=1}^{m} a_i + \sum_{i=m+1}^{n} a_i.
