@@ -30,10 +30,6 @@ export default ((userOpts?: Partial<Options>) => {
             <h3 style={{marginTop: 0, marginBottom: 0}}><a href="/Essays">📝 Essays</a></h3>
             <i>Thoughts on AI, startups, and the future</i>
           </li>
-          <li>
-            <h3 style={{marginTop: 0, marginBottom: 0}}><a href="https://x.com/leocamacho43">🐦 Twitter</a></h3>
-            <i>I post as I build. Join me on the journey.</i>
-          </li>
         </ul>
       </div>
     )

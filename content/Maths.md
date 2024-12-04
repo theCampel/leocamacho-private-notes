@@ -1,4 +1,4 @@
-The most fundamental language of the universe. Jt
+The most fundamental language of the universe. It's really quite beautiful in that way. 
 
 #### Basic Concepts and Foundations
 - [[Basic Math Assumptions]]
