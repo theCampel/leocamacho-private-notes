@@ -1,7 +1,7 @@
 > [!caution] Why Bother?
 > *I've been coding since I was 13 (started on Scratch!)*. It's been a significant part of my life. For what? It's incredibly fun. Building something, seeing it come to life and then watching it morph as you constantly tinker on it and poke holes. 
 
-
+> I don't add to this page, so there's ***a lot more*** topics floating in my obsidian space that ***aren't linked here***.  
 
 ## Computer Architecture
 - [[(Computer) Bit]]
@@ -118,49 +118,5 @@
 - [[Scaling]]
 - [[MAYA]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> [!quote ] How did I get started?
-> I've always had an interest in computers. But at around 13 years old, I won €50 in a Scratch competition hosted by a (favourite) teacher of mine, with the objective of making the fastest sorting algorithm. It further hooked me on the field and I've wanted to do this as a living ever since.
-
-### CS Courses Taken (Go to [[University of Edinburgh]] for more specific):
-- [[INFR08025 - Introduction to Computation]]
-- [[INFR08029 - Introduction to OOP]]
-
-### Concepts:
-- [[Object Orientated Programming (OOP)]]
-- [[Algorithms]]
-
-### CS Tools:
-- [[Git]]
-- [[Github]]
-- [[ROS]]
-- [[SLAM]]
-
-### Programming Languages:
-- [[Python]]
-- [[C++]]
-- [[Java]]
-
-### Related Fields:
-- [[Autonomous Vehicles]]
-- 
-
-### Resources to for learning:
+### Some good Stuff I found recently:
 - Harvard has their infamous [CS50](https://cs50.harvard.edu/x/2023/) course on Youtube.
