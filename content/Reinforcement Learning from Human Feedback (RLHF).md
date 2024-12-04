@@ -14,3 +14,4 @@ We designed this system of [[Reinforcement Learning|RL]] (albeit very weak form 
 Andrej Karpathy has [shat](https://x.com/karpathy/status/1821277264996352246) on RLHF, saying it's basically not RL. Honestly, I'm inclined to agree. Basically:
 1. The Reward Model looks at the LLM's output. Based on it's general vibe (*as decreed by humans*), it encourages / discourages it. It's a crappy proxy (as opposed to the better but abstract goal of *"Reward it based on how 'correct' it was"* - what does it mean to be correct?). 
 2. You also don't get the creativity of RL. It's the traditional AlphaGo vs AlphaZero. 
+

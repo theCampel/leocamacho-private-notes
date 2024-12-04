@@ -1,3 +1,12 @@
+---
+aliases:
+  - Machine Learning
+  - ML
+  - Artificial Intelligence
+---
+## But What Actually Is It?
+It's a huge field, but basically imagine the world as mad up of [[Functions]]. In other words, the world ([[💻 Computer Science|computer science]] more specifically) is made up of problems that you can give an input and it returns an output. Feed it photos of a dog? It returns the breed. 
+
 
 
 ### Some Starting Points:
