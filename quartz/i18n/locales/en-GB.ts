@@ -48,7 +48,7 @@ export default {
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Search my notes (e.g. '', 'Computer Memory')",
     },
     tableOfContents: {
       title: "Table of Contents",
