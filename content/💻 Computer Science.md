@@ -1,5 +1,109 @@
 > [!caution] Why Bother?
-> 
+> *I've been coding since I was 13 (started on Scratch!)*. It's been a significant part of my life. For what? It's incredibly fun. Building something, seeing it come to life and then watching it morph as you constantly tinker on it and poke holes. 
+
+
+[[(Computer) Bit]]
+
+[[(Computer) Memory Conceptually]]
+[[(Machine Learning) Models]]
+
+
+[[ARP (Address Resolution Protocol)]]
+
+
+
+
+
+[[Aspect Oriented Programming (AOP)]]
+[[Asymmetric Encryption]]
+[[Asymptotic Bounding (Big O)]]
+[[Attention (AI)]]
+[[AWS Lambda]]
+[[Bit]]
+[[C (Programming Language)]]
+[[Computability]]
+[[Computer Security]]
+[[Constitutional AI (RLAIF)]]
+[[CPU - Processor Components]]
+[[Cryptographic Hash Functions]]
+[[Cryptography]]
+[[CYK Algorithm]]
+[[Data Imbalance in Machine Learning]]
+[[Data Overflow]]
+[[Data Structures]]
+[[Databases]]
+[[DFS Vs BFS]]
+[[Diffie-Hellman]]
+[[Digital Circuits]]
+[[Dijkstra's Algorithm]]
+[[Domain]]
+[[Domain Name System (DNS)]]
+[[DRAM]]
+
+
+
+
+
+
+
+
+[[Dynamic Programming]]
+[[Efficiency in Algorithms]]
+[[Endianness]]
+[[Firewall]]
+[[Floating Points as Binary]]
+[[Forward Secrecy]]
+[[Full Adder]]
+[[Fully Associative Cache]]
+[[Greedy Algorithms]]
+[[Heap (Data Structure)]]
+[[HeapSort]]
+[[Heuristics]]
+[[Hexadecimal Notation]]
+[[High Performance Computing]]
+[[Injection Attacks]]
+[[IO]]
+[[IO Controller]]
+[[IP Address]]
+[[ISA (Architecture)]]
+[[Kernel Vs User Mode]]
+[[Knapsack Problem]]
+[[Linked Lists]]
+[[Live CD Attacks on Memory]]
+[[LLM Jailbreaking]]
+[[Load Balancers]]
+[[Load Balancing]]
+[[Local Extrema]]
+[[Logarithmic Differentiation]]
+[[Logic]]
+[[Logic Functions]]
+[[Logic Gates]]
+[[MAYA]]
+[[Mean Value Theorem]]
+[[MIPS (Architecture)]]
+[[Model View Controller]]
+[[Multiplexor (Mux)]]
+[[Name Server]]
+[[NAT (Network Address Translation)]]
+[[Neural Network]]
+[[Pages (Virtual Memory)]]
+[[Passkeys]]
+[[Reinforcement Learning]]
+[[Reinforcement Learning from Human Feedback (RLHF)]]
+[[ROS]]
+[[RSA]]
+[[RSA Algorithm]]
+[[Scaling]]
+
+
+
+
+
+
+
+
+
+
 
 
 
