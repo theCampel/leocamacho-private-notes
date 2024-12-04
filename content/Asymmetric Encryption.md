@@ -18,3 +18,4 @@ You can openly share the ***Public Key*** with people, and it's good to *encrypt
 - If something's encrypted with your private key (of which only you have), then only your public key can decrypt it. 
 - Therefore, if you encrypt something with both your private key *and then* Alice's public key, then Alice can be sure that that only she would've been able to open that message and that it definitely came from you (in that order).
 - If something you encrypt something with your public key, then only your private key can open it. 
+

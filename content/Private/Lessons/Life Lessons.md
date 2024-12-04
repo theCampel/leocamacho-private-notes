@@ -1,0 +1,1 @@
+- Send rejection letters letters quickly and be specific to the exact thing they didn't do well

@@ -12,5 +12,5 @@ Yeh before you think this is a journal entry, it's actually about how we create 
 	- **Problem:** There's no guarantee how quickly you'll get it. 
 - ***Quota and Time (Pool) Based:*** The mixer should have a minimum amount of messages ($n$) at all times. If that quota is matched, every $t$ seconds random fraction of $n$ gets released. 
 	- **Problem:** You need lots of memory for the queue to be held.
-- **Client Delay (continuous) based:** Each client says "delay my message this long". The Mixer only has to obey it. Decide it randomly.
+- **Client Delay (Continuous) based:** Each client says "delay my message this long". The Mixer only has to obey it. Decide it randomly.
 - 

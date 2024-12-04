@@ -22,7 +22,7 @@ Simplified Version of how it goes:
 2. Middleware Layer
 	- API Gateway: Handles communication between the User Interface Layer and the various subsystems in the stack.
 	- Data Storage: Manages storage and retrieval of data generated during vehicle operation, such as maps, sensor data, and user preferences.3. Decision Making Layer
-3. [[Perception]] & Localization Layer
+3. [[Perception]] & Localisation Layer
 	- Sensor Fusion: Combines data from multiple sensors such as LiDAR, cameras, radar, and ultrasonic sensors to create a comprehensive view of the vehicle's surroundings.
 	- Object Detection and Tracking: Identifies and tracks objects, including other vehicles, pedestrians, cyclists, and obstacles in the vehicle's path.
 	-   *Localisation*: Estimates the vehicle's position and orientation within the environment using sensor data and map information.

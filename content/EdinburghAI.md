@@ -24,6 +24,7 @@
 	- On the day of the event, academia, industry, students and researchers alike come together and view the projects on display. 
 	- The projects will be judged on the day and the top teams will win some sweet prizes (first place 2024 was £1000 🤑).
 
+
 <div class="side-by-side">
   <div>
 	<img src="B31B8F31-2EFE-4A9D-BB97-5E7019E8078C.jpg" width="350">
@@ -43,53 +44,10 @@
 	    we founded EdinburghAI. I could not have asked for a better co-founder of the society. 
 	</p>
 	<p>
-		I've learned a lot at EdinburghAI. The single biggest thing is that <strong><em>I get so vividly energised when working with a team of cracked people</em></strong>. Any endeavour I take in the future, that'll be a central part to it. 
+		I've learned a lot at EdinburghAI. I learned that <strong><em>I get so vividly energised when working with a team of cracked people</em></strong>. Any endeavour I take in the future, that'll be a central part to it. 
 	</p>
 	<h3>Company, academic or student interested in getting involved?</h3>
 	<p>As of writing, I'm still at Uni and the president. If you're reading this and want to contribute in some way, reach <a href="https://x.com/LeoCamacho43" target="_blank">out!</a>
 
   </div>
 </div>
-
-{{}}
-<div class="side-by-side">
-  <div>
-	[[B31B8F31-2EFE-4A9D-BB97-5E7019E8078C.jpg]]
-	<p>A photo of our inaugural **AI Expo!**<p/>
-  </div>
-  <div>
-    ### Something more
-	<p>
-	    In 2nd year, I was ranting to my friend from 
-	    <a href="https://www.eusa.ed.ac.uk/activities/view/mathsoc" target="_blank">MathSoc</a> 
-	    that I was struggling to find people equally interested in ML. He said it was funny; 
-	    <em>I was the 2nd person to say that to him that week</em>. The first was 
-	    <a href="https://www.linkedin.com/in/pascual-merita-torres/" target="_blank">Pascual Merita Torres</a>.
-	</p>
-	<p>
-	    After a coffee chat, the rallying of some of our mates and some society-founding-bureaucracy, 
-	    we founded EdinburghAI. I could not have asked for a better co-founder of the society. 
-	</p>
-	<p>
-		I've learned a lot at EdinburghAI. The single biggest thing is that <strong><em>I get so vividly energised when working with a team of cracked people</em></strong>. Any endeavour I take in the future, that'll be a central part to it. 
-	</p>
-	<h3>Company, academic or student interested in getting involved?</h3>
-	<p>As of writing, I'm still at Uni and the president. If you're reading this and want to contribute in some way, reach <a href="https://x.com/LeoCamacho43" target="_blank">out!</a>
-
-  </div>
-</div>
-
-{% raw %}
-<div class="side-by-side">
-  <div>
-    **Column 1 Content**  
-    This will render Markdown properly, including:  
-    - **Bold text**  
-    - Obsidian links: [[ExamplePage]]  
-  </div>
-  <div>
-    **Column 2 Content**  
-    Here’s a link to another page: [[AnotherPage]].  
-  </div>
-</div>
-{% endraw %}

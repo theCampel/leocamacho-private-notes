@@ -8,7 +8,7 @@ Defining how different systems communicate with each other through well defined 
 ### Different Kinds:
 1. [[REST API Vs GraphQL]] 
 2. SOAP
-
+3. 
 ### Best Practises
 - Avoid *over/under*-fetching data and having wasted / unnecessarily repeated requests.
 - Have *clear* and consistent naming conventions, without verbs (E.g. `/users`, not `/getUsers`).

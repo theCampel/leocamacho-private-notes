@@ -1,5 +1,5 @@
 #EUFS
-(With relation to [[🏎️ EUFS MOC|EUFS]])
+(With relation to [[🏎️ EUFS|EUFS]])
 
 
 ### What is it?:
