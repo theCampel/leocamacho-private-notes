@@ -64,8 +64,8 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Hey! This is either a private note that I've decided not to share, or it doesn't exist.",
-      home: "Return to Homepage",
+      notFound: "This note's either private or it doesn't exist. Sometimes I write dead links thinking I'll write the full note later. It's all part of the process.",
+      home: "Go back to The Beginning...",
     },
     folderContent: {
       folder: "Folder",

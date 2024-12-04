@@ -64,8 +64,8 @@ export default {
     },
     error: {
       title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
-      home: "Return to Homepage",
+      notFound: "This note's either private or it doesn't exist. Sometimes I write dead links thinking I'll write the rest of it later. It's part of the note-taking process.",
+      home: "Go back to The Beginning...",
     },
     folderContent: {
       folder: "Folder",
