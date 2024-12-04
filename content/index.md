@@ -5,11 +5,11 @@ I'm a 3rd year [[💻 Computer Science|Computer Science]] student at the [[Unive
 
 ### About Me:
 - I ***co-founded*** my University's AI Society, [[EdinburghAI]], where I'm currently ***President***.
-- I'm an active member of [[🏎️ EUFS|Edinburgh University Formula Student]], a society that builds self driving race cars from scratch. I'm currently trying to use [[Reinforcement Learning]] to optimise the global path around the race track. 
+- I'm an active member of [[🏎️ EUFS|Edinburgh University Formula Student]], a society that builds self driving race cars from scratch. I'm currently trying to use [[AI|RL]] to optimise the global path around the race track. 
 - This past summer, I interned at JPMorganChase as a [[💻 Computer Science|software engineer]]! 
 
 > [!question] What is this website?
-> It's a blend of my University notes, [[Personal Projects|personal projects]] and written [[Essays|essays]]! You can search for a given topic using the 🔍 icon at the top (eg. *"Memory Hierarchy"*). Alternatively, you can just click around (eg. [[(Computer) Memory Conceptually|Computer Memory]])!
+> It's a blend of my [[💻 Computer Science|University notes]], [[Personal Projects|personal projects]] and [[Essays|written essays]]! You can search for a given topic using the 🔍 icon at the top (eg. *"Memory Hierarchy"*). Alternatively, you can just click around (eg. [[(Computer) Memory Conceptually|Computer Memory]])!
 
 
 <div class="side-by-side">

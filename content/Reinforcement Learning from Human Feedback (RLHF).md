@@ -1,11 +1,11 @@
 ## What:
-We designed this system of [[Reinforcement Learning|RL]] (although it's a very week form of RL) to keep [[AI]] models [[Alignment|aligned]] to human values. 
+We designed this system of [[Reinforcement Learning|RL]] (albeit very weak form of RL) to keep [[AI]] models [[Alignment|aligned]] to human values. 
 
 ### How?
 1. Models go through their normal [[AI Pretraining|pretraining]]. Now models are able to come up with coherent text.
 2. Now this is imperfect - it outputs stuff against our values. The solution? Fine-tune it! Ok... But how? 
 	1. Using human annotators, rank possible outputs from the models in terms of quality.
-	2. Take these outputs, and ***train another model*** to ***be*** a human annotator... We'll call this the reward model. 
+	2. Take these outputs, and ***train another model*** to ***be*** a human annotator... We'll call this the *reward model*. 
 	3. The reward model can now judge the base model based on human preferences. 
 3. We fine tune the base model, using RL with an algorithm called [[Proximal Policy Optimisation]]. This encourages positive, human aligned text. 
 4. To ensure we don't lose the coherence of the original base model, we add a penalty for losing coherence. 
