@@ -1,0 +1,5 @@
+   - You give the model both **input data** and **desired outputs**.
+   - Examples:
+     - Predicting house prices from size. ([[Simple Linear Regression]], [[Multiple Linear Regression]])
+     - Classifying emails as spam or not spam. (**Classification**)
+   - Relies heavily on the availability of labelled data.

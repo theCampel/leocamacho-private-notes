@@ -4,8 +4,10 @@ aliases:
   - ML
   - Artificial Intelligence
 ---
+
 ## What?
 - Teach a computer to perform tasks without explicitly programming all the rules. (🧠 "Learn by Example").
+	- Sometimes, we're trying to teach the computer even though we [[Algorithm Distillation|know all of the rules]].
 - Works by finding patterns in data (***Generalisation***).
 - ***Core objective***: Minimise error on unseen data (***Accuracy*** vs ***Overfitting***).
 - Encompasses [[Supervised Learning]], [[Unsupervised Learning]], [[Reinforcement Learning]].
@@ -14,33 +16,20 @@ aliases:
 1. **Training Data**: A dataset of inputs (features) and outputs (labels or structure). 
    - Assumes the data is representative of the problem space. 
    - Data quality directly impacts performance (***Garbage In, Garbage Out***). 
-2. **Model**: A mathematical function mapping inputs to outputs (e.g., [[Linear Regression|Linear]] or [[Neural Networks]]).
-   - **Hypothesis Space**: All possible functions the model can explore.
-3. **Learning Algorithm**: Finds the best function by iteratively minimising a loss function.
+2. **Model**: A mathematical [[Neural Networks as Function Finders|function]] mapping inputs to outputs (e.g., [[Linear Regression|Linear]] or [[Neural Networks]]).
+   - **Hypothesis Space**: All possible functions the model can explore. Relates to [[Computability]]
+3. **Learning Algorithm**: Finds the best function by iteratively minimising a loss function. Typically [[Backpropagation]]
 4. **Loss Function**: Quantifies how far the model’s predictions are from the truth.
-   - Examples: [[Mean Squared Error]] (for regression), [[Cross-Entropy Loss]] (for classification).
+   - Examples: [[Estimators|MSE]] (for regression), [[Cross-Entropy Loss]] (for classification).
 5. **Evaluation**: Use metrics (e.g., [[Precision vs Recall]]) on a hold-out dataset to test generalisation.
 
+> [!caution] Just Saying!
+> There's a lot of dead links on this page. I'm working on it. 
 ---
-
 ### Types of Machine Learning:
-1. **Supervised Learning**:
-   - You give the model both **input data** and **desired outputs**.
-   - Examples:
-     - Predicting house prices from size. (**Regression**)
-     - Classifying emails as spam or not spam. (**Classification**)
-   - Relies heavily on the availability of labelled data.
-   
-2. **Unsupervised Learning**:
-   - No labels, just input data. Model tries to find structure or patterns.
-   - Examples:
-     - Grouping similar customers (***Clustering***).
-     - Reducing dimensionality while retaining key info (e.g., [[PCA|Principal Component Analysis]]).
-
-3. **Reinforcement Learning**:
-   - The model interacts with an environment and learns by trial-and-error.
-   - Rewards guide learning.
-   - Example: Teaching a robot to walk or play chess.
+1. [[Supervised Learning]]
+2. [[Unsupervised Learning]]
+3. [[Reinforcement Learning]]
 
 ---
 
@@ -65,26 +54,10 @@ aliases:
 
 ---
 
-### Related Concepts:
-- [[Artificial Intelligence]]: ML is a subset.
-- [[Deep Learning]]: A subfield of ML using neural networks.
-- [[Big Data]]: Often needed for ML models to perform well.
-- [[Ethics in AI]]: Bias in data leads to bias in predictions.
-
-
-
-
-## But What Actually Is It?
-It's a huge field, but basically imagine the world as made up of [[Functions]]. In other words, the world ([[💻 Computer Science|computer science]] more specifically) is made up of problems that you can give an input and it returns an output. Feed it photos of a dog? It returns the breed. Give it a bunch of words in a sentence and it outputs the next one. 
-
-Machine Learning is all about finding ways to find those functions. *(In an unreal and oddly roundabout way, sometimes we're trying to [[Algorithm Distillation|learn the algorithms that we already know]].)*
-
-
 ## *"How Do I Learn AI?"*:
 
 > [!caution] Hol' Up
-> This is by no means the most efficient way of learning ML. It's adjacent to This exposes you to many different parts of the 
-
+> This is by no means the most efficient way of learning ML. It's adjacent to how I learned it. Ruthlessly [[Learning|ask questions]] and follow every rabbit whole you encounter.
 
 1. Dive into the world first. Follow:
 	1. [Hackernews](https://news.ycombinator.com), 
@@ -111,7 +84,6 @@ Machine Learning is all about finding ways to find those functions. *(In an unre
 		2. Given a dataset of different countries, their GDP, average years schooling, average BMI etc, make a bunch of graphs that compares 2 different criteria. Eg. Average BMI vs Life Expectancy
 			1. As an additional step, could you come up with a model that given an average BMI (and all of the other factors), you predict their life expectancy.
 7. If you've just done everything here, you've simply dipped your toes in. Every step you take, ask "*why?*" until you're stopped by the laws of physics. Follow every question you have. Commit to [[Personal Projects|building]] something before you even know how to build it. 
-
 
 ### Some of My Notes:
 > I don't actively add to this list, so there's a lot more notes on ML that aren't here.
