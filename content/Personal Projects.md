@@ -7,6 +7,8 @@
 #### TLDR:
 A radio station that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*.
 
+![[bbc-radio-demo.mp4]]
+
 ### Background:
 In 2023, I wrote an [[Essays|essay]] imagining what the future would look like. A key part of it was the world would be personalised to every individual - this includes the radio we listen to. Naturally, I decided to take a Sunday off and build it. Find it [here](https://github.com/theCampel/BBC-Radio-4U/tree/main).
 
