@@ -3,16 +3,12 @@
 > 
 > Here's a *(non-exhaustive)* list of some of the project I've worked on:
 
-## BBC Radio4(U)
+## Personalised Radio Station *(BBC Radio4(U))*
+#### TLDR:
+A radio station that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*.
 
-### Idea:
+### Background:
 In 2023, I wrote an [[Essays|essay]] imagining what the future would look like. A key part of it was the world would be personalised to every individual - this includes the radio we listen to. Naturally, I decided to take a Sunday off and build it. Find it [here](https://github.com/theCampel/BBC-Radio-4U/tree/main).
-
-### High Level Description:
-- A radio station that takes your subscribed RSS feeds.
-- The [[AI]] radio hosts talk about a given news article, then about the song that's about to play.
-- They finish and my Spotify immediately begins to play. 
-- *Project went from idea `->` full execution in ~1 day. Discomfort was in the self-imposed time constraint.* 
 
 ### Biggest Problems - Natural Timing
 It took too long for the conversation to start. As well, there was ~3 seconds of silence after each conversational turn. Made listening experience unusable.
@@ -30,10 +26,10 @@ Problem 2 was time the constraint. I challenged myself to do this in a single da
 
 ### Extensions:
 - *Remove Junk Articles:* Too many articles from *The Verge*, *Wired* etc. were advertising related *(Eg best deals to get on Black Friday)*. Ideally, [[Large Language Models (LLMs)|BERT]] could be used to detect salesy-like titles and filter them out. 
-	- *Note: According to someone at JPMorgan, BERT would perform better than traditional NLP by ~10%.*
+	- *Note: According to someone at JPMorgan, BERT would perform better than traditional [[Natural Language Processing|NLP]] by ~10%.*
 - Reduce the waiting period between article selection and conversation begins. There's a couple of (unoptimised) processes between these, so shouldn't be too difficult. 
 	- Slight problem is I want to add more complexity there. There's a tradeoff with `more stuff x speed`. *(EG: even a small BERT would cause delays).* Maybe preload the initial bit of conversation, eg introduction etc?)
-- Currently, song selection is random. Ideally, the user has some sort of preference over this. 
+- Currently, song selection is random (from my top 10 songs). Ideally, the user has some sort of preference over this. 
 
 > [!todo] TODO
 > Something
