@@ -32,7 +32,7 @@ It took too long for the conversation to start. As well, there was ~3 seconds of
 		- The moment the player was done with a turn, it would immediately start playing the next item (conversational turn) in the queue. 
 		- So long as the generator would generate audio faster than audio played, a seem-less conversation transpired.
 
-- ***Problem 2; Visualisation:*** So I originally finished it and recorded it for my site, and realised it was so pointless without something to at least look at. The visualisation that followed drove me to insanity. I basically actually learned about [[Sound|sounds]] and got a better understanding for physical waves. 
+- ***Problem 2; Visualisation:*** So I originally finished it and recorded it for my site, and realised it was so pointless without something to at least look at. The visualisation that followed drove me to insanity. I basically actually [[Learning|learned]] about [[Sound|sounds]] (learned about a lot in of different things) and got a better understanding for physical waves. 
 
 Problem 2 was time the constraint. I challenged myself to do this in a single day. It was fun and really rewarding.
 
