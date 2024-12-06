@@ -5,7 +5,7 @@
 
 ## Personalised Radio Station *(BBC Radio4(U))*
 #### TLDR:
-A radio station (with visualisation!) that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*.
+A radio station (with visualisation!) that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*. 
 
 
 <div style="position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;">
@@ -44,7 +44,7 @@ Problem 2 was time the constraint. I challenged myself to do this in a single da
 - Currently, song selection is random (from my top 10 songs). Ideally, the user has some sort of preference over this. 
 
 > [!todo] TODO
-> Follow through with Bert extension - would give more experience with local models + fine tuning. Also refactor your visualisation code cos it could do with it lol.
+> Follow through with Bert extension - would give more experience with local models + fine tuning. Also refactor your visualisation code cos it could do with it.
 
 ## [[EdinburghAI]]
 ### What:
