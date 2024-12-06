@@ -4,11 +4,9 @@
 	- Untampered
 - **Availability**
 - **Authentication**
-- **Anonymity**
+- ***[[Anonymity]]***
 - **Unlinkability:** An attacker should not be able to deduce whether different services are delivered to the same user.
 - **Non-repudiation**: The author of an action should not be able to deny doing said action.
-
-> [!]
 
 ## Security Threat Categories
 - Interception
