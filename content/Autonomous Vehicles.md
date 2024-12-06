@@ -32,6 +32,6 @@ aliases:
 > Those are the exact sub-teams of [[EUFS|Formula Student]]. 
 
 ### Hacking Risks:
-- ***Cars get hacked:*** Self-driving cars introduce some novel hacking risks. Imagine driving down the road and your car just starts going on it's [own merry way](https://www.youtube.com/watch?v=MK0SrxBC1xs). At the end of the day they're [[💻 Computer Science|computers]] on wheels. This brings on the same [[Computer Security|computer vulnerabilities]]  we've seen over and over again. 
+- ***Cars get hacked:*** Self-driving cars introduce some novel hacking risks. Imagine driving down the road and your car just starts going on it's [own merry way](https://www.youtube.com/watch?v=MK0SrxBC1xs). At the end of the day they're [[Computer Science|computers]] on wheels. This brings on the same [[Computer Security|computer vulnerabilities]]  we've seen over and over again. 
 - ***People try fuck with the roads:*** [[Computer Vision]] is vulnerable to statistics. What if people put mathematically specific pieces of tape [on stop signs](https://globalnews.ca/news/3654164/altered-stop-signs-fool-self-driving_cars/)? Then they're be perceived as *"Go straight on"*  
 
