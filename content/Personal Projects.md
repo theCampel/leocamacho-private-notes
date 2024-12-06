@@ -5,9 +5,14 @@
 
 ## Personalised Radio Station *(BBC Radio4(U))*
 #### TLDR:
-A radio station that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*.
+A radio station (with visualisation!) that takes your news feed, has *two* hosts dynamically talk about it. They then introduce the next song and it plays on my Spotify. Once finished, they jump in and discuss the artist / song + mention fun facts. *(Idea -> execution in ~1 day)*.
 
-![[bbc-radio-demo.mp4]]
+
+
+<video controls poster="thumbnail.png">
+  <source src="bbc-demo-vis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Background:
 In 2023, I wrote an [[Essays|essay]] imagining what the future would look like. A key part of it was the world would be personalised to every individual - this includes the radio we listen to. Naturally, I decided to take a Sunday off and build it. Find it [here](https://github.com/theCampel/BBC-Radio-4U/tree/main).
@@ -23,6 +28,8 @@ It took too long for the conversation to start. As well, there was ~3 seconds of
 			- *Note: The first dialogue didn't need to be* fully *generated, just the first couple of bytes, as the generator would continue to stream into it as it played.*
 		- The moment the player was done with a turn, it would immediately start playing the next item (conversational turn) in the queue. 
 		- So long as the generator would generate audio faster than audio played, a seem-less conversation transpired.
+
+- ***Problem 2; Visualisation:*** So I originally finished it and recorded it for my site, and realised it was so pointless without something to at least look at. The visualisation that followed drove me to insanity. I basically actually learned about [[Sound|sounds]] and got a better understanding for physical waves. 
 
 Problem 2 was time the constraint. I challenged myself to do this in a single day. It was fun and really rewarding.
 
