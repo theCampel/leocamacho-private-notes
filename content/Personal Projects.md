@@ -41,9 +41,7 @@ Problem 2 was time the constraint. I challenged myself to do this in a single da
 - Currently, song selection is random (from my top 10 songs). Ideally, the user has some sort of preference over this. 
 
 > [!todo] TODO
-> Something
-> - Add video demo
-> - Follow through with Bert extension - would give more experience with local models + finetuning.
+> Follow through with Bert extension - would give more experience with local models + fine tuning. Also refactor your visualisation code cos it could do with it lol.
 
 ## [[EdinburghAI]]
 ### What:
