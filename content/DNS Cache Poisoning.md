@@ -1,9 +1,9 @@
 ## What?
-Ideally, you give a DNS server a false address record and get it cached. 
+Ideally, you give a DNS server a false address record and get it cached. Then, when a user makes a request to that DNS server, the cache is your fake record! Boom, the user, unbeknownst to them, is now a victim.
 
 ### To Who?
-- If you're in the same network as a device making a DNS query, you can ***see*** it making that query
-- Alternatively, other [[Name Server|name servers]] are also making requests (Even ISP's). If you can see and cache responses for it, you're cooking.
+- If you're in the same network as a device making a DNS query, you can ***see*** it making that query (eg with [[Wireshark]]).
+- Alternatively, other [[Name Server|name servers]] are also making requests (Even ISP's) - . If you can see and cache responses for it, you're cooking.
 
 ### How?
 The query  often has a randomised, 16-bit identifier and return port. Which means that guessing it and serving it back to the device querying is hard. But if you just spam those? You've got a somewhat decent likely-hood of getting a hit. 
