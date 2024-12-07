@@ -90,4 +90,5 @@ Not quite a coding project, but definitely one of the harder (and most rewarding
 
 
 
-
+## Cool Resources for Building:
+- [eieio](https://eieio.games/)  : Used to work at AWS, really cool blog and documents things nicely (good [[Steal Like An Artist|inspiration]]). 
