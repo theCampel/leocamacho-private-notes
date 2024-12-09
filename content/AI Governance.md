@@ -1,13 +1,17 @@
+
+> [!tldr] What is this Page?
+> The UK government (under Sunak) released a document on how frontier labs can be safer, as well as encouraging them to release how they're being safe at the moment. The document is [here](https://assets.publishing.service.gov.uk/media/653aabbd80884d000df71bdc/emerging-processes-frontier-ai-safety.pdf). This page is how they suggested scaling the models safely. 
+
 ## Responsible Scaling:
 In order to (in the eyes of the government) be safer, a "Responsible Scaling Framework" for managing risks and deploying [[AI]] models. 
 
 ### 1. Risk Assessments:
-- Assess risks at all points in time. Analyse factors like expert forecasts (guesses) and [[(Machine Learning) Models|model]] evaluations.
+- Assess risks at all points in time. Analyse factors like expert forecasts (guesses) and [[(Machine Learning) Models|model]] [[AI Benchmarks|evaluations]].
 - Define specific thresholds that, if breached, require specific actions or mitigations. 
 - Develop plans for if/when each threshold is exceeded.
 
 ### 2. Model Evaluations and Red Teaming:
-- Evaluate models for dangerous capabilities, lack of control and security weaknesses.
+- Evaluate models for dangerous capabilities, lack of control and [[Computer Security|security]] weaknesses.
 - Constantly evaluate the models (at every point of [[AI Training]])
 
 ### 3. Information Sharing:
@@ -41,3 +45,5 @@ In order to (in the eyes of the government) be safer, a "Responsible Scaling Fra
 - Remove harmful data from training process. 
 
 
+> [!important] Interestingly,
+> There was no call for [[Governing Compute]].
