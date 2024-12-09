@@ -1,8 +1,10 @@
 ## What're the fundamentals?
-- **Confidentiality**: Some information should never be revealed to non-authorised entities.
-- **Integrity**
-	- Untampered
-- **Availability**
+***CIA*** is the core 3. Similar (but different) to [[CAP - Brewer's Theorem|CAP]]:
+- ***Confidentiality***: Information should only be accessible to authorised entities (links to *Authenticity*). 
+- ***Integrity:***
+	- Data is untampered and uncorrupted
+- ***Availability:***
+	- Accessible when you need it. 
 - **Authentication**
 - ***[[Anonymity]]***
 - **Unlinkability:** An attacker should not be able to deduce whether different services are delivered to the same user.

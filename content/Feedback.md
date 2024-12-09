@@ -1,1 +1,0 @@
-Add a more familar example to Neural nets - not that beginner friendly. Add how they work Of NN before you look at the maths

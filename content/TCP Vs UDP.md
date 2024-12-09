@@ -8,6 +8,8 @@ There are two main protocols in the [[TCP-IP|Transport Layer]] part of the TCP/I
 ### TCP:
 - **Connection-based**: TCP first establishes a connection between the sender and receiver *before* transmitting data. (Three way handshake)
 - **Reliable**: TCP sends acknowledgements (ACKs) back for each successfully received packet (thus can be resent in case of error). Includes checksum for validation and sequence numbers to rebuild the packets. 
+	- Each packet has a sequence number in its header - signifying what position in the original order it came.
+	- With *each packet* successfully received, the endpoint sends back an ***ACK***. 
 - **Slower**: Cos of the establishing the connection and the additional overhead.
 - **Flow & Congestion Control**: To avoid overwhelming the receiver, TCP uses the [[Sliding Window Protocol]]. 
 - This guys in charge of a lot of the ports. 

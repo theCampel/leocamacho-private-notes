@@ -1,2 +1,2 @@
 ### Related to system error.
-An unscheduled procedure call that causes a program to jump to a predefined address to invoke an appropriate routine. The thing that caused an error in the first place is shoved into a register. 
+An unscheduled procedure call that causes a program to jump to a predefined address to invoke an appropriate routine. The thing that caused an error in the first place is shoved into a [[Registers]]. 

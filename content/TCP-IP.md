@@ -8,12 +8,13 @@ It's the set of networking protocols that establish a standardised way different
 ### 4. Application Layer
 The layer that **tells the software on a computer/server the methods to reach out to the internet**. There's protocols for how applications do so, for example, `SMTP`, `HTTPS` and `FTP`. 
 
-The protocols here describe how data is formatted. EG. `HTTP` describes how web pages are requested and served. These protocols typically follow the Client-Server Architecture.
+The protocols here describe how data is formatted. EG. `HTTP` describes how web pages are requested and served. These protocols typically follow the [[Client-Server Architecture]].
 
 ### 3. Transport Layer
 This layer instructs **how to reliably (or unreliably) transport data between two hosts**. Key things about it:
 - Splits data into segments (A file).
--  Processes have **sockets** (AKA the combination of IP address and Port numbers).-
+-  Processes have **sockets** (AKA the combination of IP address and Port numbers).
+- This is where [[Packet Switching]] occurs.
  The two main Protocols are [[TCP Vs UDP]].
 
 ### 2. Internet Layer
