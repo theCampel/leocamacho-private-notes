@@ -48,4 +48,3 @@ In order to (in the eyes of the government) be safer, a "Responsible Scaling Fra
 > [!important] Interestingly,
 > There was no call for [[Governing Compute]].
 
-### Governing  
