@@ -18,4 +18,4 @@ Another [[Diffie-Hellman|key-exchange]] protocol developed in 1978.
 4. After all this, they can confirm they're both talking with each-other securely.
 
 ### Problem:
-- It's susceptible to a [[Network Attack Types|Man-In-The-Middle]] attacker. 
+- It's susceptible to a [[Network Attack Types|Man-In-The-Middle]] attacker. Imagine inserting yourself in between Alice and Bob. Since there's no authentication, you could have a secure chat between both of them, but simply act as proxy. Boom!
