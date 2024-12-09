@@ -14,11 +14,11 @@ The protocols here describe how data is formatted. EG. `HTTP` describes how web 
 This layer instructs **how to reliably (or unreliably) transport data between two hosts**. Key things about it:
 - Splits data into segments (A file).
 -  Processes have **sockets** (AKA the combination of IP address and Port numbers).
-- This is where [[Packet Switching]] occurs.
  The two main Protocols are [[TCP Vs UDP]].
 
 ### 2. Internet Layer
 Responsible for the **addressing, routing and fragmenting of data** to ensure they can traverse different networks. It uses the `Internet Protocol (IP)` to do this. Key concepts:
+- This is where [[Packet Switching]] occurs.
 - Data is split into packets (Eg. Request header and payload). Packets contain source and destination IPs
 - Data is routed from router to router across different networks. (First from your router to your ISP's *"router"*, then from there to closer and closer networks). There's multiple different routing algorithms to be used. 
 

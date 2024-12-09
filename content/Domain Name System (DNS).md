@@ -1,4 +1,4 @@
-Similar to an actual [[Domain]], it's the [[TCP-IP|application protocol]] that is in charge of the `many-to-many` mapping of [[IP Address|IP Addresses]] to Domain names.
+Similar to an actual [[Domain]], it's the [[TCP-IP|application-layer]] ***protocol*** that is in charge of the `many-to-many` mapping of [[IP Address|IP Addresses]] to Domain names. The [[Name Server|name servers]] actually hold the information. 
 
 ***It's actually a distributed database that stores all of the relevant records:***
 - Address (A Record)
@@ -7,9 +7,10 @@ Similar to an actual [[Domain]], it's the [[TCP-IP|application protocol]] that i
 ### Example:
 `google.com` -> `216.58.213.11` and many more
 
-
 ### Distribution of Responsibility
-
 So in reality, ICANN manages the root of the tree. They give specific *registrars* the responsibility to manage the `.com` or `.edu` or `.uk`. Then they (`.com` registrars for example) will be in charge of giving out the `google.com`. This helps avoid name collisions. 
 
 ![[Pasted image 20241002093436.png]]
+
+## Vulnerabilities:
+- [[DNS Cache Poisoning]]
