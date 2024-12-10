@@ -1,4 +1,4 @@
-Similar to an actual [[Domain]], it's the [[TCP-IP|application-layer]] ***protocol*** that is in charge of the `many-to-many` mapping of [[IP Address|IP Addresses]] to Domain names. The [[Name Server|name servers]] actually hold the information. 
+How do you actually find out what [[IP Address]] is at `google.com`? The DNS protocol. It's [[TCP-IP|application-layer]]. Similar to [[Domain]], it's the `many-to-many` mapping. The [[Name Server]] are the thing that actually hold the information.
 
 ***It's actually a distributed database that stores all of the relevant records:***
 - Address (A Record)
