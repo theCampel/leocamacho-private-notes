@@ -3,7 +3,7 @@ Another [[Diffie-Hellman|key-exchange]] protocol developed in 1978.
 
 ### Given:
 - Alice (initiator)
-- Bob
+- Bob (receiver)
 - $K_A$ : Alice's public key
 - $K_B$ : Bob's public key
 - Message $\{M\}_K$ is encrypted with $K$
