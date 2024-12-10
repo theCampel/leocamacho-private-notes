@@ -11,19 +11,18 @@ How do you actually find out what [[IP Address]] is at `google.com`? The DNS pro
 ![[Pasted image 20241002095654.png|500]]
 
 - Every computer knows the top root node (it's hardcoded in). 
-- That [[Name Server]] knows the location 
-
-
+- That [[Name Server]] knows the location of all of the `.com`, `.edu`, `.org` etc. name servers. Each one of their respective ones knows all of the domains within their name servers. 
+- Eventually, you'll get a name server (eg. `dns0.ed.ac.uk`) that will know the exact IP of a domain. That's the ***authoritative name server***.
 
 ## How does Iterative Name Resolution Work?
-1. Your computer wants to find out where `google.com` is. It asks the nearest name server (likely your ISPs). If (for some weird reason), your ISP doesn't have it, it will ask the DNS tree. 
+1. Your computer wants to find out where `google.com` is. It asks the nearest name server (likely your ISPs). If (for some weird reason), your ISP doesn't have it, it will ask the DNS tree. Each request has a unique ID (cos these name servers also have to serve many other people - not just you).
 	1. The ***Root Server*** (root node on the tree) is likely hardcoded in your computer - there's only about 20. One's run by ICANN, another by NASA lol. 
-2. Your ISP asks the Root Server of the DNS tree where `.com` is.
-3. It will respond. You then ask that server where's `Google.com`. It says *"No idea, but here's `ns0.google.com`"*. 
-4. You then ask `ns0.google.com` where `google.com` is, and it'll tell you!
+3. Your ISP asks the Root Server of the DNS tree where `.com` is.
+4. It will respond. You then ask that server where's `Google.com`. It says *"No idea, but here's `ns0.google.com`"*. 
+5. You then ask `ns0.google.com` where `google.com` is, and it'll tell you!
 	1. In this case, `ns0.google.com` is the ***authoritative name server*** for `google.com`
 	2. `dns0.ed.ac.uk` is the authoritative name server for `ed.ac.uk`
-5. In all of this, the ISP [[Cache|caches]] the records it received.
+6. In all of this, the ISP [[Cache|caches]] the records it received.
 
 
 ![[Pasted image 20241002095354.png]]
