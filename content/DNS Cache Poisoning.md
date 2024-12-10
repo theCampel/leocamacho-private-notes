@@ -1,5 +1,8 @@
 ## What?
-Ideally, you give a DNS server[[Name Server]] a false address record and get it cached. Then, when a user makes a request to that DNS server, the cache is your fake record! Boom, the user, unbeknownst to them, is now a victim.
+Ideally, you give a DNS server [[Name Server]] a false address record and get it cached. Then, when a user makes a request to that DNS server, the cache is your fake record! Boom, the user, unbeknownst to them, is now a victim.
+
+### How did the Attacker do it?
+1. At some point, some name server asks for 
 
 ### To Who?
 - If you're in the same network as a device making a DNS query, you can ***see*** it making that query (eg with [[Wireshark]]).
