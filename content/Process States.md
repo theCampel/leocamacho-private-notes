@@ -1,6 +1,7 @@
 
 > [!done] What
-> The current status of a process in it's lifecycle within the OS. Can include:
+> The current status of a 
+> process in it's lifecycle within the OS. Can include:
 > 1. **New:** The process is being created.
 > 2. **Ready:** The process is prepared to run and is waiting for CPU time to be executed.
 > 3. **Running:** The process is currently being executed by the CPU.
