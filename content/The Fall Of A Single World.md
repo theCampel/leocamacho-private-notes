@@ -15,11 +15,10 @@ Once you've realised that new forms of media arrive with technological progress,
 In a similar vein, we can look at the technological progress today and predict a new class of media that will be made possible. Two technologies stand out: virtual reality and generative AI. While there will inevitably be new form-factors that emerge at the intersection of them, I will focus on where Generative AI intersects with traditional consumption mediums.
 
 ### What's Fundamentally New With Generative AI?
-*Generative AI enables the rapid generation of novel content, based entirely on customisable criteria*. NotebookLM creates (surprisingly engaging) [podcasts](https://notebooklm.google.com/notebook/957013fe-6219-4b59-95d1-c393779d9179/audio) based on content you feed it. Spotify DJ creates a (terrible) [DJ experience](https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/) based on your music listening habits. But these are both examples of previously existing mediums becoming highly-personalised with modern technologies. While there's certainly value in these, the greatest value will be created by a fundamentally medium. 
+*Generative AI enables the rapid generation of novel content, based entirely on customisable criteria*. NotebookLM creates (surprisingly engaging) [podcasts](https://notebooklm.google.com/notebook/957013fe-6219-4b59-95d1-c393779d9179/audio) based on content you feed it. Spotify DJ creates a (terrible) [DJ experience](https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/) based on your music listening habits. But these are both examples of previously existing mediums becoming highly-personalised with modern technologies. While there's certainly value in these, the greatest value will be created by a fundamentally new medium. 
 
 ## Want to build the next medium?
 I've made projects trying to maximise the value in existing mediums using [[Personal Projects#Personalised Radio Station *(BBC Radio4(U))*|modern technology]]. But I'm always on the lookout for the new mediums. If you think that's interesting, [reach out](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NkM2NTZGNjM2MTZENjE2MzY4NkYzNzMwMzc0MDY3NkQ2MTY5NkMyRTYzNkY2RA)!
-
 
 ## What does a personalised world actually look like? 
 TODO:

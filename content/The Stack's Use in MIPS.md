@@ -2,7 +2,7 @@
 When coding in [[(MIPS) Assembly Language]], you often have nested functions. You also have to record the return address of the so you know where to return to. What does this look like? Imagine Jumping from Main to function A, And-Linking the the return address into `$ra`. But now what if you want to jump from A to B? You can't store A's return address into `$ra` because we need it.
 
 ### Solution:
-Store the return addresses into memory, in [[Stack Vs Queue|stack fashion]]. As you recursively add return addresses, the LIFO property of the stack helps you return to the correct position. 
+Store the return addresses into memory, in [[Stack Vs Queue|stack fashion]]. As you recursively add return addresses, the LIFO property of the stack helps you return to the correct position. More info on a 
 
 > [!note] How do Stacks work in MIPS?:
 > Stacks in MIPS are downward descending. They have a pointer which starts at the top. When you want to push (add) a [[(Computer) Memory Conceptually|word]] to the stack, you decrement the counter by a word, and add it to the Stack Pointer's new position.  
