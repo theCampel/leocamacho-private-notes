@@ -3,6 +3,10 @@
 > 
 > This page serves as a *(non-exhaustive)* collection of things I've been thinking about. 
 
+## The Fall Of A Single World:
+***Read the essay [[The Fall Of A Single World|here]].***
+#### Background:
+Humanity has longed for personalisation in medicine, nutrition, education and more. In this essay, I write about personalised media and what it will look like. ***Currently a work in progress** (build in public they said lol).*
 
 ## Written Prediction of 2030:
 ***Read the essay*** [[Time Capsule|here]].
