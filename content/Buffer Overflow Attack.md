@@ -3,7 +3,7 @@ Remember, a [[Data Overflow]] overwrites data in memory. How do we actually take
 
 ## How?
 Before the code, remember that whenever you [[The Stack's Use in MIPS|dive into a function]], you store the return address on the stack (reminder of what [[Address Space]] looks like). What if you could rewrite the return address to be that of something malicious? Or what if the attacker just input the (malicious) machine code as the attackers input? When the [[OS Running Source Code|%eip]] or [[(MIPS) Assembly Language|program counter]] reaches it, it runs. 
-''
+
 Take the below code:
 ```c
 
@@ -27,9 +27,9 @@ It's hard to actually know what location your malicious code is at (and thus wha
 
 ### Some [[C (Programming Language)|C]] Culprits:
 None of these do bounds checking. The programmer has to add checks:
-- `strcpy`
-- `strcat`
-- `gets`
+- `strcpy` - Copies the line from a variable into something
+- `strcat` - Concats 2 lines together.
+- `gets` - reads line from somewhere into a variable
 - `scanf`
 
 ## Defenses:
