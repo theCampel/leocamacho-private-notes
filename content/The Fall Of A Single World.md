@@ -19,3 +19,11 @@ In a similar vein, we can look at the technological progress today and predict a
 
 ## Want to build the next medium?
 I've made projects trying to maximise the value in existing mediums using [[Personal Projects#Personalised Radio Station *(BBC Radio4(U))*|modern technology]]. But I'm always on the lookout for the new mediums. If you think that's interesting, [reach out](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=NkM2NTZGNjM2MTZENjE2MzY4NkYzNzMwMzc0MDY3NkQ2MTY5NkMyRTYzNkY2RA)!
+
+
+## What does a personalised world actually look like? 
+TODO:
+- Everyone will experience a shared reality, but it's slightly different for everyone. 
+	- Andrej Karpathy mentioned this in a tweet somewhere??
+- There's still be some art forms we don't want to personalise - that's not how art works?
+- 
