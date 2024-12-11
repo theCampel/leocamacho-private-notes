@@ -44,4 +44,4 @@ None of these do bounds checking. The programmer has to add checks:
 - ***Write XOR Execute:*** The stack will always either be Writable or Executable but never both at the same time. 
 	- Again, just reuse old unsafe C code. 
 
-- ***Address Space Location Randomisation (ASLR):*** Prevent the attacker from knowing where things are in memory. Place standard library things (`exec()`) in random locations. 
+- ***Address Space Location Randomisation (ASLR):*** Prevent the attacker from knowing where things are in memory. Place standard library things (eg `exec()` etc.) in random locations. 
