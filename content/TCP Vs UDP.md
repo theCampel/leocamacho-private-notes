@@ -15,8 +15,18 @@ There are two main protocols in the [[TCP-IP|Transport Layer]] part of the TCP/I
 - This guys in charge of a lot of the ports. 
 ![[Pasted image 20240910103829.png|300]]
 
-Three Way Handshake:
-![[Pasted image 20240923173127.png|150]]
+#### TCP's Three Way Handshake:
+- TCP is all about having clear, consistent, reliable communications between computer and server. They begin their communication like so:
+1. **Client** sends a `SYN` segment. - *"Hey Server! Can we start talking (ie can you open a connection for me)?*
+2. **Server** acknowledges with a `SYN-ACK`. - *"Sure thing! Open one for me too!"*
+3. **Client** acknowledges with `ACK` - *"Sure! Now we're talking!"* 
+
+*Note about the numbers: They're both keeping track of *
+
+![[Pasted image 20241212100943.png|600]]
+#### The Actual Communication Under TCP:
+
+
 
 ### UDP:
 - **Connection-less**: Does not establish a connection beforehand. It just sends packets *Hail Mary* style.

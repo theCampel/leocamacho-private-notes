@@ -25,4 +25,4 @@ TODO:
 - Everyone will experience a shared reality, but it's slightly different for everyone. 
 	- Andrej Karpathy mentioned this in a tweet somewhere??
 - There's still be some art forms we don't want to personalise - that's not how art works?
-- Also, everything about ui/ux?
+- Also, everything about ui/ux? 
