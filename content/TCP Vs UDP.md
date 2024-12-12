@@ -21,14 +21,20 @@ There are two main protocols in the [[TCP-IP|Transport Layer]] part of the TCP/I
 2. **Server** acknowledges with a `SYN-ACK`. - *"Sure thing! Open one for me too!"*
 3. **Client** acknowledges with `ACK` - *"Sure! Now we're talking!"* 
 
-*Note about the numbers: They're both keeping track of the package they sent, and the number the other person last saw. This helps them tell if *
+*Note about the numbers: They're both keeping track of the package they sent, and the number the other person last saw. This helps them tell if one was sent out of order accidentally.*
 
 ![[Pasted image 20241212100943.png|600]]
 #### The Actual Communication Under TCP:
 - If at some point the `seq num` or `ack num` is incorrect, the client/server will say *"Hold up! Missing a packet!"* 
 
 #### Syn Flooding:
-
+- If *Attacker* sends a bunch of `syn` packets (low memory), the server's queue will hold half-open connections. 
+- Once the queue is full, the server can't handle legitimate requests. (Because it has no space for any more `SYN` entries)
+- What if attacker spoofed its address as well? 
+###### Defense:
+- Firewalls
+- Rate Limiting
+- 
 
 ### UDP:
 - **Connection-less**: Does not establish a connection beforehand. It just sends packets *Hail Mary* style.
