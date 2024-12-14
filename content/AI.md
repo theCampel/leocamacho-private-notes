@@ -85,29 +85,3 @@ aliases:
 			1. As an additional step, could you come up with a model that given an average BMI (and all of the other factors), you predict their life expectancy.
 7. If you've just done everything here, you've simply dipped your toes in. Every step you take, ask "*why?*" until you're stopped by the laws of physics. Follow every question you have. Commit to [[Personal Projects|building]] something before you even know how to build it. 
 
-### Some of My Notes:
-> I don't actively add to this list, so there's a lot more notes on ML that aren't here.
-
-- [[Reinforcement Learning from Human Feedback (RLHF)]]
-- [[Algorithm Distillation]]
-- [[Turing Test]]
-- [[Large Language Models (LLMs)]]
-- [[AlphaGo]]
-- [[Attention (AI)]]
-- [[Autonomous Vehicles]]
-- [[AV's Modelling People - A Pro Or Con]]
-- [[Constitutional AI (RLAIF)]]
-- [[Containment]]
-- [[Data Imbalance in Machine Learning]]
-- [[Google DeepMind]]
-- [[EdinburghAI]]
-- [[Exploratory Data Analysis]]
-- [[For The Love Of Machines]]
-- [[Intelligence]]
-- [[MAYA]]
-- [[Neural Network]]
-- [[Reinforcement Learning]]
-- [[Segmenting Speech or Language]]
-- [[SLAM]]
-- [[Transformer]]
-- [[Wicklephones]]

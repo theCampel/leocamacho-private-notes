@@ -1,4 +1,3 @@
-> [!note] Fundamental Theorem of Calculus
 > The idea that derivatives and inverses are inverses of each other. I.E. 
 
 ## Topics:
