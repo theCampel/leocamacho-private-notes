@@ -3,7 +3,6 @@
 ## What:
 - A great book by artist Austin Kleon.
 - My sister lent me it, which I then finished in less than an hour. 
-![[61sQHzONWBL._AC_UF894,1000_QL80_.jpg|300]] 
 
 ### Key Ideas:
 - There's no new ideas. Everything that seems new, is simply a remix of other things.
