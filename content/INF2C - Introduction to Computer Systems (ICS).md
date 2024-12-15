@@ -1,3 +1,4 @@
+#ics
 ### Topics Covered:
 - [[CPU - Processor Components]]
 - [[Data Representation or Types]]

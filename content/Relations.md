@@ -1,3 +1,4 @@
+#dmp 
 With relation to [[Set Theory]]: It basically says that a number in set A ($a$) can be related to a number in set B ($b$) by a given relation. This is written as $aRb$, or $R\in(A\times B)$.
 
 They can be the following:

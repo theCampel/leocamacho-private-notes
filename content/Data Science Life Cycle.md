@@ -1,5 +1,6 @@
+#fds 
 
-1. **Ask**  interesting question
+1. **Ask** an interesting question
 2. **Get** the data
 3. **Explore** the data
 4. **Model** explore the data

@@ -1,3 +1,4 @@
+#ics
 
 > [!warning] Note:
 > This page refers specifically to the MIPS-flavoured Assembly Language. Click here to read more about the [[MIPS (Architecture)]]. Alternatively you can also read about [[OS Memory Management (x86)|x86 assembly]].

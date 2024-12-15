@@ -1,3 +1,4 @@
+#EUFS 
 ### What is it:
 This is a subteam of [[EUFS|EUFS]]. It's focused on analysing trends (in my time) on the self-driving landscape. You take this information and make presentations, namely:
 - [[Real World Ai]]: presentations covering the real implications (positive and negative) of ML with self-driving cars. 

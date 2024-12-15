@@ -2,6 +2,7 @@
 quickshare-date: 2023-10-05 15:35:29
 quickshare-url: "https://noteshare.space/note/clnda503n1365901mwo0fm9we3#4/CaCkVQOQkrcVF/5+WtQ0yJ3Ja2NFcUxPKqOJuxJZ4"
 ---
+#ics 
 ### Represent a Number as Binary?:
 The [[(Computer) Bit]] on the far right is the ***Least Significant Bit***. The one on the far left is the ***Most Significant Bit***. Similar to counting in decimal (The hundreds is far more significant than the right).
 

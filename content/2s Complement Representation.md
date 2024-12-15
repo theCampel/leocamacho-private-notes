@@ -2,6 +2,7 @@
 quickshare-date: 2023-10-05 15:38:21
 quickshare-url: "https://noteshare.space/note/clnda8ohc1366601mw9ryr92by#kLJVW4rZILPBD3Z1B+A5BED3GTVmaZCS3jVSpc94jCk"
 ---
+#ics 
 AKA: Two's Complement Representation. 
 ### What's it all about?
 Ok. This is all about being able to represent a [[Binary]] number as a negative. This is fucking hard. You can end up just making 0 be both positive or negative if you're not careful (1's complement). 

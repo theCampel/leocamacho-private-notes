@@ -11,7 +11,20 @@ I'm a 3rd year [[Computer Science|Computer Science]] student at the [[University
 > [!question] What is this website?
 > It's a blend of my [[Computer Science|University notes]], [[Personal Projects|personal projects]] and [[Essays|written essays]]! You can search for a given topic using the 🔍 icon at the top (eg. *"Memory Hierarchy"*). Alternatively, you can just click around (eg. [[Power Series]])!
 
-
+<div class="side-by-side">
+  <div>
+    <img src="53066306052_e178b19a5d_o-2.jpg" alt="Winning Formula Student UK 2023, AI Division" style="width:100%; border-radius:8px;">
+    <p><em>@ Winning Formula Student UK 2023, AI Division.</em></p>
+  </div>
+  <div>
+    <h3>Where I've Worked:</h3>
+    <ul>
+      <li>In Summer 2023, I interned at <a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer" target="_blank">J.P. MorganChase</a> as a software engineer. I learned how to build at scale with AWS.</li>
+      <li>I interned at <a href="https://itus-tech.com/" target="_blank">ITUS Secure Technologies</a>, a Cybersecurity startup that aided the recovery of cybercrime victims, as well as general security managed services.</li>
+      <li>I spent a research internship at <a href="https://www.neuroconcise.co.uk/" target="_blank">NeuroConcise</a>. We developed a discreet EEG that allowed Locked-In patients to communicate with previously incommunicable patients.</li>
+    </ul>
+  </div>
+</div>
 
 > [!example] I was the target audience...
 > I write my notes so that ***I*** can come back and re-learn the concepts easily. They're messy, scrappy and incomplete. That's the learning process at the end of the day 😉.
