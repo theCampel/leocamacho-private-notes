@@ -52,5 +52,4 @@
 - [[TCP Vs UDP]]
 - [[TCP-IP]]
 - [[Tor 🧅]]
-- [[Tor Hidden Services]]
 - [[Zero Knowledge]]
