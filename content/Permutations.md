@@ -9,5 +9,5 @@ If you have $k$ selections, with replacement, from a set of $n$ distinct objects
 > $$_nP_{k}= \frac{n!}{(n-k)!}$$
 
 
-Note: The order of which you're dealt matters, making Permutations grow so quickly. So, in dice, a $1,4,2,5$ and a $1,2,4,5$ are different. 
+*Note: The order of which you're dealt matters, making Permutations grow so quickly. So, in dice, a $1,4,2,5$ and a $1,2,4,5$ are different.* 
 

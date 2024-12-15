@@ -13,4 +13,17 @@ Yeh before you think this is a journal entry, it's actually about how we create 
 - ***Quota and Time (Pool) Based:*** The mixer should have a minimum amount of messages ($n$) at all times. If that quota is matched, every $t$ seconds random fraction of $n$ gets released. 
 	- **Problem:** You need lots of memory for the queue to be held.
 - **Client Delay (Continuous) based:** Each client says "delay my message this long". The Mixer only has to obey it. Decide it randomly.
-- 
+
+
+## Attacks on Communications:
+- ***Time Correlation Attacks:*** 
+	- Imagine you control the entry and exit node. 
+	- You observe the traffic's timing and volume. 
+	- You try and pair the entry's patterns to the exit's patterns. 
+	- *Requires entry and exit node control. *
+	- (Also applicable to [[Tor 🧅]]) 
+	- It can be defended by ***padding messages*** and ***buffering***. 
+
+## Defences Against Attacks on Communications
+- It can be defended by ***padding messages*** and ***buffering***. 
+- ***Dummy messages:*** Prevnts 
