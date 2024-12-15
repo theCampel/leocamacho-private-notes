@@ -11,5 +11,6 @@
 
 > I don't add to this page, so there's ***a lot more*** topics floating in my obsidian space that ***aren't linked here***.  
 
+
 ### Some good Stuff I found recently:
 - Harvard has their infamous [CS50](https://cs50.harvard.edu/x/2023/) course on Youtube.
