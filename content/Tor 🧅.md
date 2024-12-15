@@ -43,3 +43,4 @@
  3. A user will randomly choose a *"Rendezvous Node"* (and a new 3 hop connection is established between them). User then asks Node to send the *IntroPoint* a string *"secret"*. 
  4. The server will respond (via a new, fresh 3 hop relay) *to the Rendezvous Node* with a string secret. 
  5. The *Rendezvous Node* then bridges connection between client and server. In this version, there's ***6 hops*** between the client and server. Slow, but both are completely anonymous to everyone involved.
+![[Screenshot 2024-12-15 at 7.32.11 p.m..png]]
