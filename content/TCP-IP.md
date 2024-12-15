@@ -28,6 +28,11 @@ Handles the interaction between the hardware (cables, network cards etc) and the
 - Wi-Fi
 - [[ARP (Address Resolution Protocol)]]
 
+### OSI Model:
+***Note:*** *The Internet layer becomes the network layer, and the network layer becomes the Link Layer.*
+What's a bit fucked is that most of the past papers are never explicit about which they're using. 
+
+![[Pasted image 20241215200503.png]]
 ### Communication Channels
 Each layer _thinks_ they're talking with the same layer somewhere else. This can be known as the **Virtual Communication Channels**. (*Layers talk to the same layer*)
 
