@@ -1,4 +1,3 @@
-#ics 
 
 > [!warning] Architecture$^2$
 > Wait! This page refers to ***hardware architecture***. It defines how software at the lowest level (eg [[(MIPS) Assembly Language|assembly]]). This is different from [[Operating System (OS)]], which focuses on designing an environment for applications to run, abstracted away from hardware details.

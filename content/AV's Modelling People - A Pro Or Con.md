@@ -1,4 +1,3 @@
-#EUFS 
 ## Current Draft of Slides:
 ### Intro + First Slide:
 

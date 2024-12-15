@@ -1,4 +1,3 @@
-#dmp 
 
 
 ### What is it?
@@ -13,7 +12,7 @@ Unfortunately you can't just say "Surely it is..." 😔.
 4. Do the actual work of your proof
 5. Write out the conclusion
 
-There's multiple proofs we will go through #dmp:
+There's multiple proofs we will go through:
 - [[Proofs by Contradiction]]
 - [[Direct Proofs]]
 - [[Proof by Contraposition]]

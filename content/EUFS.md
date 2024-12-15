@@ -28,7 +28,6 @@ To prove you'd made something somewhat decent, they put your software through th
 #### DDT (Driver-yes):
 This part builds the race-car from scratch. For a bunch of reasons, the actual building of the race-car hasn't been our strength (we've not submitted a working car while I've been at University - yet...). But there is hope. 
 
-#EUFS 
 
 > [!hint] Reflection
 > I'm incredibly grateful I joined EUFS in 1st year. Made great friends and [[Learning|learned]] the importance of good inspirational leadership - lessons I then took to [[EdinburghAI]]. Also, got some *sick* photos. Credit to good friend [Nikita](https://www.linkedin.com/in/nikitajegorovs/):

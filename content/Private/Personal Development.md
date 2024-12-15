@@ -1,4 +1,3 @@
-Aliases: #selfimprovement #goals
 Links closely with [[How to be Better]]. 
 ___
 

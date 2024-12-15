@@ -2,9 +2,7 @@
 quickshare-date: 2023-05-12 16:00:03
 quickshare-url: "https://noteshare.space/note/clhkoq8av913001pjf0n01zoo#Zh5NEp7VQEnLpd516S2V/hiiaGO5jPjXE0meaQZ6jy0"
 ---
-#EUFS 
 Aliases: 
-#BPP #Bovar
 
 > [!Brief] Brief
 > FS-AI teams must assume that they have been approached to tender for an AI system which is to go into production within 24 months. The AI system is for a new Autonomous Driving System Vehicle which operates at SAE level 4 in a city centre environment moving people from the outskirts of the city centre into the heart of the city centre on defined route
