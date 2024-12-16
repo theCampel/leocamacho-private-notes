@@ -61,15 +61,15 @@ aliases:
 
 1. Dive into the world first. 
 	1. Watch / Read:
-		1. [Machine of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
-		2. [AI 2041](https://www.penguin.co.uk/books/445514/ai-2041-by-qiufan-kai-fu-lee-and-chen/9780753559024)
-		3. 
-	2. Follow:
+		1. [AI 2041](https://www.penguin.co.uk/books/445514/ai-2041-by-qiufan-kai-fu-lee-and-chen/9780753559024)
+		2. [Machine of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
+		3. [Leopold Aschenbrenner](https://www.youtube.com/watch?v=zdbVtZIn9IM) on Dwarkesh Patel
+	3. Follow:
 		1. [Hackernews](https://news.ycombinator.com), 
 		2. [AI Explained](https://www.youtube.com/@aiexplained-official), 
 		3. [[Andrej Karpathy|Andrej]] [Karpathy](https://x.com/karpathy), 
 		4. [Noam Brown](https://x.com/polynoamial)
-	3. There's so many more to even list.
+	4. There's so many more to even list.
 3. Learn how to code with Pandas. If you don't know how:
 	1. ***Do not use [[ChatGPT in Education|ChatGPT]] for the following.***
 	2. Spin up a Google CoLab for Python. 
