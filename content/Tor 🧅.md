@@ -23,7 +23,7 @@
 	- (Also applicable to [[Mixed Communication]])
 	
 - **End to End Correlation:** Basically the same, except you look at timing, volume, sequences (i.e. bursts, gaps etc..)
-- ***Cryptotagging:*** 
+- ***Crypto tagging:*** 
 	- Imagine we controlled both entry and exit node, and flipped a single [[(Computer) Bit|bit]] at the beginning.
 	- When we decrypt the data at the exit node, the plain-text request may be slightly corrupted at the end. Thus we associate the entry and exit node.
 	- Avoidable if using [[TCP-IP|HTTPS]].
