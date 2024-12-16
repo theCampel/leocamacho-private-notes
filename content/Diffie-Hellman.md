@@ -13,8 +13,17 @@ It's the mechanism for how we create a [[Asymmetric Encryption|private key]] ove
 7. Don't ask how (right now), but we can use that to come up with a cipher-text that is only undone if someone has $a$. 
 
 ### (Open) Problems:
-- This works flawlessly!.. If you're assuming the attacker in the open is passive. But what if the attacker changes the values that get shared to the public? Like the attacker would be able to tell Alice it's Bob and Bob it's Alice. The solution? Sign every message using [[Digital Signature]]. 
-- You can achieve [[Forward Secrecy]] by using temporary (ephemaral) private keys for each session. 
+- This works flawlessly!.. If you're assuming the attacker in the open is passive. But what if the attacker changes the values that get shared to the public? Like the attacker would be able to tell Alice it's Bob and Bob it's Alice. The solution? Sign every message using [[Digital Signature]] ***(Station to Station)***. 
+- You can achieve [[Forward Secrecy]] by using temporary (ephemeral) private keys for each session. 
+
+### Station to Station:
+- When sharing $A$ or $B$ publicly, sign them with your private key (requires effective [[Public Key Infrastructure (PKI)|PKI]]). That way, anyone who tries to be in the middle, isn't able to change their ***A*** to ***E***! *(Remember, thanks to [[Asymmetric Encryption]], we can sign things with our private key, and our public key let's people know it's exclusively ours!)*
 
 ## ElGamal Encryption, by Comparison:
-It's the algorithm for actually doing the [[Asymmetric Encryption|public-key]] encryption. It comes up with the public-private key pair using similar concepts to how DH did. Instead of simply saying *"Ok cool we've both agreed on keys to use"* as DH does, ElGamal just starts using the keys to encrypt and decrypt messages. 
+Surprisingly simple. 
+- In Diffie-Hellman, two parties come up with a key together (using the algorithm above.)
+- In El Gamal, we come up with 2 keys and use them for the encryption. It comes up with 
+	- Instead of simply saying *"Ok cool we've both agreed on keys to use"* as DH does, ElGamal just starts using the keys to encrypt and decrypt messages. 
+
+Thus, DH is a sub-set of ElGamal.
+

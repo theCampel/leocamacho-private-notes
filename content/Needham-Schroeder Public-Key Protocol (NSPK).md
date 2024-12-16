@@ -13,7 +13,7 @@ Another [[Diffie-Hellman|key-exchange]] protocol developed in 1978.
 	1. $\{A,N_A\}_{K_B}$
 2. Bob responds back to the message, with his own secret unique number. He encrypts the message with Alice's public key: 
 	1. $\{N_A,N_B\}_{K_A}$ 
-	2. He sends Alice's number to confirm her got it
+	2. He sends Alice's number to confirm he got it
 3. Alice responds with $\{N_B\}_{K_B}$ to confirm she's received the message. 
 4. After all this, they can confirm they're both talking with each-other securely.
 
