@@ -49,7 +49,7 @@ If someone got access to your cookie, they pretend to be you... How could they d
 #### Cross-Site Request Forgery (CSRF):
 - When a malicious website (`evil.com`) tricks the user's browser into making a request to a trusted one where the user is already authenticated (`bank.com`). 
 - Remember cookies have a `domain` flag. If the user is already authenticated on `bank.com`, any request the browser makes to `bank.com` will include any relevant cookies.  
-- The servers at `bank.com` will assume the request is legitimate, and treat it as such.
+- The servers at `bank.com` will assume the request is legitimate, and treat it as such. (They'd have no reason not to.)
 - Soooo if our `evil.com` can manage to make a request to `bank.com` from the victim's browser, then boom. 
 ##### How to prevent?
 - ***CSRF Tokens:*** Each user session has unique token. The server validates it's legitimate.
