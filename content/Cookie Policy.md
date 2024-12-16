@@ -5,7 +5,7 @@
 
 ## What's the Policy?
 - Controls how accessible cookies are with flags:
-	- `SameSite`
+	- `SameSite` 
 	- `Secure` (Https only)
 - And Scope:
 	- Basically just which domains can access it.
