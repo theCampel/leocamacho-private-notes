@@ -1,12 +1,12 @@
 
 Actual ones interested:
 - https://comma.ai/jobs
+- Look at [[Tech Jobs]]
 
 
 
 
 
-Aliases: #jobs #employers
 Jobs
 
 AEG Powertools UK

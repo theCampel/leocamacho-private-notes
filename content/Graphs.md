@@ -1,4 +1,3 @@
-#dmp 
 
 # Graphs in Mathematics and Computer Science
 

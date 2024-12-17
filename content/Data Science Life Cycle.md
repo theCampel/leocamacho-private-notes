@@ -1,4 +1,3 @@
-#fds 
 
 1. **Ask** an interesting question
 2. **Get** the data

@@ -1,6 +1,5 @@
 A fancy way of saying AND, OR, XOR etc. Also known as conjunctives and disjunctives.
 
-#dmp 
 ![[Screenshot 2023-09-20 at 11.31.03 a.m..png]]
 
 Includes OR, AND, XOR.

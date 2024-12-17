@@ -1,4 +1,3 @@
-#dmp 
 
 ### How to Write:
 $\forall x \in D$, $P(x) \implies Q(x)$

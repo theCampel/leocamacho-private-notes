@@ -1,4 +1,3 @@
-#maths
 
 
 > [!define] Definition

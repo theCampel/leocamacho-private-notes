@@ -1,4 +1,3 @@
-#EUFS 
 ## Explanation
 A presentation analysing how ready 2 different countries in the world are for SAE Level 4. You chose Japan and Matt chose India(?)
 

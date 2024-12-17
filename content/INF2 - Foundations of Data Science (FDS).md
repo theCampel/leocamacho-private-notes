@@ -1,4 +1,3 @@
-#fds
 
 ### Some Topics Covered:
 - [[Algorithms]]

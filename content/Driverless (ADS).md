@@ -1,4 +1,3 @@
-#EUFS
 (With relation to [[EUFS|EUFS]])
 
 

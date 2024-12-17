@@ -1,5 +1,3 @@
-#ics
-
 > [!warning] Note:
 > This page refers specifically to the MIPS-flavoured Assembly Language. Click here to read more about the [[MIPS (Architecture)]]. Alternatively you can also read about [[OS Memory Management (x86)|x86 assembly]].
 ### What?
@@ -9,11 +7,11 @@ It's an (extremely low-level) programming language that corresponds closely to t
 The rest of this page is the syntax and how to code the coding language. But how do we actually ***convert*** the ***"human readable"*** (it's still fucking hard to understand) coding language *into machine code* - 1's and 0's? That's the assembler. 
 
 ### Instruction Breakdown:
-***R-Type:*** `operator $destination, $source1, $source2`
+- ***R-Type:*** `operator $destination, $source1, $source2`
 	- EG: `add $t0, $t1, $t2   # $t0 = $t1 + $t2`
-***I-Type:*** `operator $destination, $source, immediate`
+- ***I-Type:*** `operator $destination, $source, immediate`
 	- EG: `addi $t0, $t1, 5    # $t0 = $t1 + 5`
-***Memory Access:*** `operator $destination/source, offset($base)`
+- ***Memory Access:*** `operator $destination/source, offset($base)`
 	- EG: ` lw $t0, 4($t1)      # Load word from address ($t1+4) into $t0`
 	- EG: ` sw $t0, 8($t1)      # Store word from $t0 to address ($t1+8)`
 
