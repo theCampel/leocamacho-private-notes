@@ -5,3 +5,8 @@ It's a standardised format for describing the location of resources via the [[TC
 
 ![[Pasted image 20241002085532.png|600]]
 
+Host is made up of:
+- Subdomain
+- [[Domain Name System (DNS)|Domain]]
+- Top Level Domain (`.tld`)
+

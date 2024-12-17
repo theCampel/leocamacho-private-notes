@@ -9,8 +9,9 @@
 	- `Secure` (Https only)
 - And Scope:
 	- Basically just which domains can access it.
-		- Cookies are set to domains. They will apply to any subset of that domain. EG:
-		- Cookie set for `example.com` applies to `www.foo.example.com`. 
+		- ***Cookies are set to domains. They will apply to any subset of that domain.*** 
+			- EG: Cookie set for `example.com` applies to `www.foo.example.com`. 
+			- This is dangerous because 
 		- Cookies 
 
 ### Cookies' Attributes:
