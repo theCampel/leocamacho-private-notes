@@ -13,13 +13,14 @@ Ideally, you give a DNS server [[Name Server]] a false address record and get it
 - So if we spammed it, then you may have a decent chance at guessing it.
 
 ### Taking it 1 step further:
-- What if the attacker requests `123random.google.com`? Since they're not in the cache, it performs the lookup. 
-- And you set up your name server such that it knows the answer to `123random.google.com`?
+- What if the someone requests `123random.google.com`? Since it's not in the cache, it does DNS to find the authoritative name server. 
+- What if you set up a name server that knows `123random.google.com`? This leads them to a compromised server. 
 
 ### Defences against it:
 - ***Port Randomisation AND Request Randomisation:*** The identifier can be spammed, but what if we randomise the source port? Then the chances of guessing that also drops.
 - ***Limit Cache Lifetime (TTL - Time To Live):*** Minimises impact of poisoned cache by expiring records quickly. 
 - ***Rate Limiting:*** Limits the number of [[Domain Name System (DNS)|DNS]] responses processed per second from the same source.
+- **DNSSec**
 
 
 

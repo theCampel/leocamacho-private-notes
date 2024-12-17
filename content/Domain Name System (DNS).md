@@ -1,9 +1,10 @@
 How do you actually find out what [[IP Address]] is at `google.com`? The DNS protocol. It's [[TCP-IP|application-layer]]. Similar to [[Domain]], it's the `many-to-many` mapping. The [[Name Server]] are the thing that actually hold the information.
 
-***It's actually a distributed database that stores all of the relevant records:***
-- Address (A Record)
+***It's actually a distributed database that stores all of the relevant records'***
+- Addresses (A Record)
 - Mail Exchange
 - Name Server
+- TTL
 ### Example:
 `google.com` -> `216.58.213.11` and many more
 
