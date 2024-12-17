@@ -23,7 +23,7 @@ int main() {
 It's hard to actually know what location your malicious code is at (and thus what to set the return address to). 
 - If we know what the code looks like, we know exactly how big the buffer is (and thus what's *too* big). 
 - If we didn't know what the code looks like, we know all [[Address Space|32 bit]] machines are only capable of $2^{32}-1$ addresses. What if we tried every one?
-- If we know the rough address (i.e. the approximate size of the stack), we could create a `NOP` (No Operation) sled. This is basically padding before the attack so if the `Return Address` lands on it, it will slide down to the relevant code.
+- If we know the rough address  (i.e. the approximate size of the stack), we could create a `NOP` (No Operation) sled. This is basically padding before the attack so if the `Return Address` lands on it, it will slide down to the relevant code.
 
 ### Some [[C (Programming Language)|C]] Culprits:
 None of these do bounds checking. The programmer has to add checks:
